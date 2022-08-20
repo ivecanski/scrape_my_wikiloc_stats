@@ -1,14 +1,16 @@
+#### Overview
+
 Wikiloc is a great site for documenting your trails. However, there is currently no way to quickly get an overview of your own basic stats - how many times your trails were viewed and downloaded. 
 
 This script scrapes **your own wikiloc account** (you need to login) and pulls the stats from the 10-trail pages instead of going through each individual trail - we try to be as easy on the website as possible. Since the stats are collected from your own account (while logged in), the scraping does not affect your stats, i.e. the number of views of your trails won't be incremented by running the script. Note that if you visit the same pages without being logged in the statistics data won't be available!
 
 Initially I tried to implement the scraping using [Scrapy](https://scrapy.org), and also [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) with requests, but both approaches failed as wikiloc was asking for captchas. The only way I could get around this was by using [Selenium](https://www.selenium.dev) and let the user resolve the captcha manually. 
 
-####Sample data
+#### Sample data
 
 Sample html pages that were used at the time the scraper was implemented are located in the `sample_data` folder. 
 
-####Environment
+#### Environment
 
 The script runs with python3, you need to install selenium and pandas libraries into your virtual environment:
 ```
@@ -25,7 +27,7 @@ password = '<your_password>'
 ```
 These will be picked up by the script to fill in the credential fields.
 
-####Running the script
+#### Running the script
 
 After sourcing your virtualenv, run the script simply with `python scrape.py`:
 
@@ -44,7 +46,7 @@ After sourcing your virtualenv, run the script simply with `python scrape.py`:
 ```
 The script sleeps at certain points to allow the pages to be loaded (waiting could be optimized), and the initial wait is longer in order to allow the captcha to be resolved manually. 
 
-####Resulting CSV file
+#### Resulting CSV file
 
 The script outputs the results as a csv file in the `output` sub-directory, with a unique name based on the current timestamp. An example of the output is shown below. You can further order the fields as you please.
 
@@ -66,6 +68,6 @@ The script outputs the results as a csv file in the `output` sub-directory, with
 |13    |Rajac Suvobor                                            |160  |14       |36       |
 
 
-####Possible further improvements
+#### Possible further improvements
 
 The output currently doesn't contain the date when the trail took place. The reason is that this information is not available on 10-trail pages. Fetching the date would require the scraping of each individual trail.
