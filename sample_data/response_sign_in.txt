@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex, nofollow"/>
+	<meta name="author" content="Wikiloc">
+	<meta name="description" content="Find the best outdoor trails for mountain hiking treks, bike tour itineraries, MTB rides, and up to 80 activities. Discover the most beautiful places in the world, download GPS tracks and follow the top routes on a map. Record your own trail from the app, upload it and share it with the community."/>
+	<title>Wikiloc | Trails of the World</title>
+
+	<link rel="shortcut icon" type="image/ico" href="https://sc.wklcdn.com/favicon.ico?v=3.0"/>
+	<link rel="apple-touch-icon" href="https://sc.wklcdn.com/apple-touch-icon.png"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css"/>
+	<link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/font/wikiloc-font.woff2?35475463" rel="preload" as="font" type="font/woff2" crossorigin />
+<link href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc.min.f844bbd3.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc-v2.min.4e9634de.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/css/wikiloc-font.min.7a3ba9d0.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/search-box.min.a325253b.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/explore.min.b5d40919.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/header-user.min.73311101.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/language-selector.min.80932ac1.css" rel="stylesheet" >
+<link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/socialLogin.min.f312602a.css">
+	<script src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js" defer></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/socialLogin.min.13fa74db.js" defer></script>
+	<c:if test="true">
+<script>
+  (function(root, factory) {
+    root.Recaptcha = factory();
+  })(this, function() {
+    // Polyfill: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+    if (typeof Object.assign !== 'function') {
+      // Must be writable: true, enumerable: false, configurable: true
+      Object.defineProperty(Object, "assign", {
+        value: function assign(target, varArgs) { // .length of function is 2
+          'use strict';
+          if (target === null || target === undefined) {
+            throw new TypeError('Cannot convert undefined or null to object');
+          }
+
+          var to = Object(target);
+
+          for (var index = 1; index < arguments.length; index++) {
+            var nextSource = arguments[index];
+
+            if (nextSource !== null && nextSource !== undefined) {
+              for (var nextKey in nextSource) {
+                // Avoid bugs when hasOwnProperty is shadowed
+                if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                  to[nextKey] = nextSource[nextKey];
+                }
+              }
+            }
+          }
+          return to;
+        },
+        writable: true,
+        configurable: true
+      });
+    }
+
+    var widgetId = null;
+    var defaults = {
+      el: "#btn-login",
+      form: "#login",
+      sitekey: "6LfH58AUAAAAAH3Ez0eN6XLCZzQ_1x7CRNJeMp2N"
+    };
+
+    function loadRecaptcha(options) {
+      if (!grecaptcha || !grecaptcha.render) {
+        setTimeout(loadRecaptcha.bind(null, options), 0);
+        return;
+      }
+      var config = Object.assign({}, defaults, options);
+      if (widgetId === null || config.forceReload) {
+        Array.prototype.forEach.call(document.querySelectorAll(".grecaptcha-badge"), function(badge) {
+          badge.remove();
+        });
+        var el = document.querySelector(config.el);
+        if (el) {
+          widgetId = grecaptcha.render(el, {
+            sitekey: config.sitekey,
+            callback: function () {
+              if (typeof config.callback === "function") {
+                config.callback(grecaptcha.getResponse(widgetId));
+              } else {
+                var tokenInput = document.createElement("input");
+                tokenInput.type = "hidden";
+                tokenInput.name = "g-recaptcha-response";
+                tokenInput.value = grecaptcha.getResponse(widgetId);
+                var protectedForm = document.querySelector(config.form);
+                protectedForm.appendChild(tokenInput);
+                protectedForm.submit();
+              }
+            }
+          });
+          document.body.appendChild(document.querySelector(".grecaptcha-badge"));
+        }
+      } else {
+        document.querySelector(".grecaptcha-badge").style.display = "initial";
+      }
+    }
+    function unloadRecaptcha() {
+      var badge = document.querySelector(".grecaptcha-badge");
+      if (badge) {
+        badge.style.display = "none";
+      }
+    }
+
+    return {
+      loadRecaptcha: loadRecaptcha,
+      unloadRecaptcha: unloadRecaptcha
+    }
+  });
+</script>
+<script src="https://www.google.com/recaptcha/api.js?render=explicit&onload=&hl=en" defer></script>
+</c:if><script async src="https://www.googletagmanager.com/gtag/js?id=UA-349413-1"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/apply-sid-rules.min.61293dcd.js"></script>
+<script>
+  CookiePolicy.applyCookieAnalisis();
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-349413-1', {
+    'custom_map': {
+      'dimension1': 'dimension_activity',
+      'dimension2': 'dimension_country',
+      'dimension3': 'dimension_region',
+      'dimension4': 'dimension_place',
+      'dimension5': 'dimension_insession',
+      'dimension6': 'dimension_lp_country',
+      'dimension7': 'dimension_lp_region',
+      'dimension8': 'dimension_lp_place',
+      'dimension9': 'dimension_lp_activity',
+    },
+  });
+  </script>
+</head>
+
+<body>
+	<header>
+	<div id="vue-language-selector"></div>
+	<nav class="header" role="navigation">
+		<div class="header__content">
+            <a class="header__brand"
+               href="https://www.wikiloc.com"
+               
+            >
+                <img class="header__logo-big"
+					 src="https://sc.wklcdn.com/wikiloc/assets/styles/images/logo/wikiloc_logo.svg?v=3.0"
+					 alt="Wikiloc - Trails of the World">
+            </a>
+			<div class="header__search">
+                    <div class="component-search-box"></div>
+                </div>
+                <div class="header__explore"><span class="header__explore-or">or&nbsp;</span><div class="component-explore"></div>
+                </div>
+
+                <div class="header__create">
+                    <a href="https://www.wikiloc.com/wikiloc/create.do"
+                       class="header__create-button-big"
+                       
+                    >
+                        <span class="header__create-button-big-icon-circle"></span>
+                        <span class="header__create-button-big-text">
+                            Upload trails</span>
+                    </a>
+                    <a href="https://www.wikiloc.com/wikiloc/create.do"
+                       class="header__create-button-small"
+                       
+                    >
+                        <span class="header__create-button-small-icon-circle"></span>
+                        <span class="header__create-button-mini-icon-circle"></span>
+                    </a>
+                </div>
+                <div class="header__user">
+                    <div class="header__user-guest">
+                                <a href="https://www.wikiloc.com/wikiloc/start.do"
+                                   class="btn btn-link header__login"
+                                   
+                                >
+                                    Log in</a>
+                                <div class="header__signup">
+                                    <a href="https://www.wikiloc.com/wikiloc/signingup.do"
+                                       class="header__signup-btn btn btn-warning"
+                                       
+                                    >
+                                        Sign up</a>
+                                    <a href="https://www.wikiloc.com/wikiloc/signingup.do"
+                                       class="header__signup-btn-small btn btn-warning"
+                                       
+                                    >
+                                        <i class="icon icon-user"></i>
+                                        Sign up</a>
+                                </div>
+                            </div> </div> </div> </nav>	</header>
+
+<script>
+	var translations = {"txtExploreIreland":"Ireland","txtExploreAustralia":"Australia","txtExploreTurkey":"Turkey","txtWorldmap":"World Map","txtNotificationConfirm":"Confirm","txtNotificationIgnore":"Ignore","txtTrails":"Your trails","txtSearchByText":"Trails with the text: '<span>{0}<\/span>'","txtUrlExploreMoreCountries":"trails","txtSignOut":"Sign out","txtExploreUnitedStates":"United States","txtExploreNepal":"Nepal","txtExplore":"Explore","txtGetPremium":"Upgrade to Premium","txtExploreIceland":"Iceland","txtExploreSpain":"Spain","txtExploreJapan":"Japan","txtNotificationTitle":"Pending requests from your trail buddies","txtSettings":"Settings","txtExploreChile":"Chile","txtExplorePeru":"Peru","txtChangeLanguage":"Change language","txtClose":"Close","txtProducts":"Your products","txtExploreNorway":"Norway","txtExploreMoreCountries":"More countries","txtNearbyTrails":"Nearby trails","txtSearchPlaceholder":"Search for trails","txtExploreVietnam":"Vietnam","txtExplorePhilippines":"Philippines","txtExploreTrailsIn":"Trails in <span>{0}<\/span>","txtContinue":"Continue","txtExploreNewZealand":"New Zealand","txtRecentSearches":"Recent searches","txtSearchExamples":"Try: Yosemite, Appalachian Trail","txtExploreGermany":"Germany","txtProfile":"Your profile","txtExploreItaly":"Italy","txtSearchByUser":"Members with username: '<span>{0}<\/span>'","txtExploreMorocco":"Morocco","txtWithText":"With the text '<strong>{0}<\/strong>'","txtOtherPlaces":"Others","txtExploreFrance":"France","txtExploreTitle":"A World to Explore"};
+	// Used in common-v2 vueHeaderUser initialization
+	var INJECT_HEADER = {
+		userId: "",
+		username: "",
+		photo: "",
+		hasPremium: false,
+		hasProducts: false,
+		hasBigAvatar: false,	// only set true at home.jsp
+		notifications: {},
+		i18n: translations,
+        languages: [{"changeLanguage":"Canvia idioma","continue":"Continua","subdomain":"ca","text":"Català"}, {"changeLanguage":"Skift sprog","continue":"Fortsæt","subdomain":"da","text":"Dansk"}, {"changeLanguage":"Sprache ändern","continue":"Fortsetzen","subdomain":"de","text":"Deutsch"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"en","text":"English"}, {"changeLanguage":"Cambia idioma","continue":"Continúa","subdomain":"es","text":"Español"}, {"changeLanguage":"Hizkuntza aldatu","continue":"Jarraitu","subdomain":"eu","text":"Euskara"}, {"changeLanguage":"Changer de langue","continue":"Continuer","subdomain":"fr","text":"Français"}, {"changeLanguage":"Cambiar idioma","continue":"Continuar","subdomain":"gl","text":"Galego"}, {"changeLanguage":"Skipta um tungumál","continue":"Halda áfram","subdomain":"is","text":"Íslenska"}, {"changeLanguage":"Cambia lingua","continue":"Continua","subdomain":"it","text":"Italiano"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"hu","text":"Magyar"}, {"changeLanguage":"Taal wijzigen","continue":"Doorgaan","subdomain":"nl","text":"Nederlands"}, {"changeLanguage":"Endre språk","continue":"Fortsett","subdomain":"nb","text":"Norsk"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"pl","text":"Polski"}, {"changeLanguage":"Mudar idioma","continue":"Continuar","subdomain":"pt","text":"Português"}, {"changeLanguage":"Vaihda kieltä","continue":"Jatka","subdomain":"fi","text":"Suomi"}, {"changeLanguage":"Ändra språk","continue":"Fortsätt","subdomain":"sv","text":"Svenska"}, {"changeLanguage":"Dili değiştir","continue":"Devam et","subdomain":"tr","text":"Türkçe"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"el","text":"Ελληνικά"}, {"changeLanguage":"Смена языка","continue":"Продолжить","subdomain":"ru","text":"Русский"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"sr","text":"Српски"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"uk","text":"Українська"}, {"changeLanguage":"改变语言","continue":"继续","subdomain":"zh","text":"中文"}, {"changeLanguage":"언어 변경","continue":"계속하기","subdomain":"ko","text":"한국어"}]
+	};
+</script>
+
+<!--[if lt IE 10]>
+<p class="browsehappy alert alert-warning text-center">Your browser version is <strong>outdated</strong>. Update your browser to view this website correctly. <a href="http://browsehappy.com/?locale=en" class="alert-link">Update my browser now</a>.</p>
+<![endif]--><main id="page" class="container">
+
+		<div class="row">
+			<div class="col-lg-offset-4 col-lg-4 col-md-offset-4 col-md-4 col-sm-offset-3 col-sm-6 col-xs-12" >
+				<div class="shbox">
+					<h1 class="login">Log into Wikiloc</h1>
+					<div class="" style="margin-bottom: 15px;">Not a member yet?&nbsp;<span style="text-decoration: underline"><a href="/wikiloc/signingup.do">Create an account</a></span></div>
+
+					<form name="loginForm" method="post" action="/wikiloc/login.do" id="login"><div class="message red"><ul>
+<li>The login information you've entered isn't in our records. Please try again.
+</li></ul></div>
+<input type="hidden" name="tkn" value="" id="tkn" /><div class="form-group">
+							<input type="text" name="email" id="email" size="20" maxlength="100" class="form-control" value="iwecanski@gmail.com" placeholder="Email or username"/>
+						</div>
+						<div class="form-group has-feedback no-bottom-padding">
+							<input id="password" name="password" type="password" size="10" class="form-control" maxlength="256" autocomplete="off" placeholder="Password"/>
+							<div id="viewpass-button" class="glyphicon glyphicon-eye-open form-control-feedback" aria-hidden="true"></div>
+						</div>
+						<div class="forgot-password-div"><a class="forgot-password" href="https://www.wikiloc.com/wikiloc/forgotPassword.do">Forgot your password?</a></div>
+						<p>
+							<input type="submit" value="Sign In" class="btn btn-success btn-block" id="submit-button" /></p>
+						<input id="visitorId" name="visitorId" type="hidden" size="10" class="form-control"/>
+						<input id="confidence" name="confidence" type="hidden" size="10" class="form-control"/>
+						<p class="login-modal__or">Or</p>
+						<div id="appleid-signin" data-color="white" data-border="false" data-type="sign in"></div>
+						<button id="google-signin" data-hl="en" type="button" class="btn btn-default btn-block"></button>
+						<hr>
+						<p class="terms">By continuing, you agree to Wikiloc's <a href="https://www.wikiloc.com/wikiloc/terms_en.html?v=6.0">Terms of Service</a> and <a href="https://www.wikiloc.com/wikiloc/privacy.html?v=4.0">Privacy Policy</a>, including <a href="https://www.wikiloc.com/wikiloc/privacy.html?v=4.0#cookies">Cookies Use</a>.</p>
+					</form></div>
+			</div>
+		</div>
+	</main>
+
+	<footer id="footer-main" >
+		<div id="footer-nav" class="container">
+			<div class="row">
+				<div class="col-sm-2 col-xs-12">
+					<h2>Get the App</h2>
+					<div class="col-sm-12 col-xs-6 remove-padding-left">
+						<a href="https://apps.apple.com/us/app/wikiloc-outdoor-navigation-gps/id432102730?pt=502712&ct=wikiloc_banner_footer&mt=8" >
+							<img class="img-responsive" width="135" height="40" loading="lazy" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/apple-store.png" alt="Available on the iPhone App Store"  />
+						</a>
+					</div>
+					<div class="col-sm-12 col-xs-6 remove-padding-left">
+						<a href='https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=en&referrer=utm_source%3Dfooter%26utm_medium%3Dweb%26utm_campaign%3Dwikiloc_app_banner' >
+							<img class="img-responsive" height="40" width="135" loading="lazy" alt="Get it on Google Play" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/google-play-badge-en.png"/>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-9">
+					<div class="col-sm-6 col-xs-12">
+						<h2>Explore Trails</h2>
+						<div class="row">
+						    <div class="col-xs-6 col-md-6 col-sm-6">
+                                <ul>
+                                    <li><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/map.do" >World Map</a></li>
+                                    <li><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/map.do?sw=-80.41570744462179%2C-202.85156250000003&ne=80.53207112232734%2C202.1484375&viewMode=1" >Explore by Photos</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails" >All Activities & Countries</a></li>
+                                    <li><a href="https://www.wikiloc.com/planet/" >Wikiloc Planet</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-xs-6 col-md-6 col-sm-6">
+                                <ul>
+                                        <li><a href="https://www.wikiloc.com/trails/hiking " >Hiking</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails/mountain-biking " >Mountain Bike</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails/cycling " >Road Bike</a></li>
+                                    <li><a href="https://www.wikiloc.com/wikiloc/orgs.do" >Official Trails</a></li>
+                                </ul>
+                            </div>
+                        </div>
+					</div>
+					<div class="col-sm-3 col-xs-6">
+						<h2>About Wikiloc</h2>
+						<ul>
+							<li><a href="https://www.wikiloc.com/wikiloc/about-us.do" >About us</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/findPeople.do"
+								   >Community Members</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/donate.do?event=donors" >Donors</a></li>
+							<li><a href="https://help.wikiloc.com" >Help Center</a></li>
+							<li><a href="https://www.wikiloc.com/jobs" >Jobs</a></li>
+						</ul>
+					</div>
+					<div class="col-sm-3 col-xs-6">
+						<h2>Services</h2>
+						<ul>
+							<li><a href="https://www.wikiloc.com/premium?ref=footer" >Wikiloc Premium</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/pois.do" >Promote your business</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/org.do" >Promote your trails</a></li>
+							</ul>
+					</div>
+				</div>
+				<div class="col-sm-1 col-xs-6">
+					<a style="text-decoration:none; padding-top: 13px;" href="/wikiloc/one-percent.do" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'open-one-percent-landing', transport_type: 'beacon'});">
+						<img class="img-responsive"
+							 loading="lazy"
+							 width="526" height="676"
+							 style="width: 100px"
+							 src="https://sc.wklcdn.com/wikiloc/assets/styles/images/onepercent/onepercent-logo-vertical-white.png"
+							 alt="Logo 1% for the Planet"
+							 title="Logo 1% for the Planet"/>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="container-grey">
+			<div id="footer-copyright" class="container">
+				<div id="footer-copyright-ornament"></div>
+				<div class="row reorder-xs">
+					<div id="footer-copyright-text" class="col-xs-12 col-sm-8 col-md-9">
+						<p>&copy; Wikiloc. All rights reserved. <a href="https://www.wikiloc.com/wikiloc/terms_en.html?v=6.0" >Terms of use</a> | <a href="https://www.wikiloc.com/wikiloc/privacy.html?v4.0" >Privacy</a> | <a href="https://www.wikiloc.com/wikiloc/privacy.html?v4.0#cookies" >Cookie policy</a></p>
+					</div>
+					<div id="social-media" class="col-xs-12 col-sm-3 col-md-2">
+						<div>
+							<a href="https://twitter.com/wikiloc" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'redirect-to-twitter-account', transport_type: 'beacon'});">
+								<img alt="Twitter icon" class="social-icon social-icon-white pul-right" loading="lazy" width="30" height="26" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/icons/icon-twitter.png"/>
+							</a>
+							<a href="https://instagram.com/wikiloc/" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'redirect-to-instagram-account', transport_type: 'beacon'});">
+								<img alt="Instagram icon" class="social-icon social-icon-white pul-right" loading="lazy" width="30" height="30" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/icons/icon-instagram.png"/>
+							</a>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-1 col-md-1">
+							<div id="select-language" class="dropup">
+								<a href="#" class="dropdown-toggle btn" data-toggle="dropdown">
+									English<span class="icon icon-up-open"></span>
+								</a>
+								<ul id="lang-selector" class="dropdown-menu dropdown-menu-right">
+									<li><a id="en" href="https://www.wikiloc.com">English</a></li>
+									<li><a id="ca" href="//ca.wikiloc.com">Català</a></li><li><a id="da" href="//da.wikiloc.com">Dansk</a></li><li><a id="de" href="//de.wikiloc.com">Deutsch</a></li><li><a id="es" href="//es.wikiloc.com">Español</a></li><li><a id="eu" href="//eu.wikiloc.com">Euskara</a></li><li><a id="fr" href="//fr.wikiloc.com">Français</a></li><li><a id="gl" href="//gl.wikiloc.com">Galego</a></li><li><a id="is" href="//is.wikiloc.com">Íslenska</a></li><li><a id="it" href="//it.wikiloc.com">Italiano</a></li><li><a id="hu" href="//hu.wikiloc.com">Magyar</a></li><li><a id="nl" href="//nl.wikiloc.com">Nederlands</a></li><li><a id="nb" href="//nb.wikiloc.com">Norsk</a></li><li><a id="pl" href="//pl.wikiloc.com">Polski</a></li><li><a id="pt" href="//pt.wikiloc.com">Português</a></li><li><a id="fi" href="//fi.wikiloc.com">Suomi</a></li><li><a id="sv" href="//sv.wikiloc.com">Svenska</a></li><li><a id="tr" href="//tr.wikiloc.com">Türkçe</a></li><li><a id="el" href="//el.wikiloc.com">Ελληνικά</a></li><li><a id="ru" href="//ru.wikiloc.com">Русский</a></li><li><a id="sr" href="//sr.wikiloc.com">Српски</a></li><li><a id="uk" href="//uk.wikiloc.com">Українська</a></li><li><a id="zh" href="//zh.wikiloc.com">中文</a></li><li><a id="ko" href="//ko.wikiloc.com">한국어</a></li><li class="arrow"></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+			</div>
+</div>
+	</footer>
+<script>
+	var isLangCancelled = false;
+
+	window.addEventListener('DOMContentLoaded', function (event) {
+		var switchLangCancel = document.querySelector('#switch_lang_cancel');
+		if(switchLangCancel) {
+			switchLangCancel.addEventListener('click', function () {
+				isLangCancelled = true;
+			});
+		}
+		hasToAddPaddingToBottom();
+		var accept = document.querySelector('#acept-cookies');
+		if(accept) {
+			accept.addEventListener('click', function (event) {
+				accept.style.display = 'none';
+				hasToAddPaddingToBottom(event);
+			});
+		}
+
+		var selectLanguage = document.querySelector('#select-language');
+		if(selectLanguage) {
+			selectLanguage.addEventListener('click', function () {
+				var switchLangCancel = document.querySelector('#switch_lang_cancel');
+				if (switchLangCancel) {
+					switchLangCancel.click();
+				}
+			});
+		}
+	});
+
+	/**
+	 * Add padding to the bottom of the page if the cookie is displayed
+	 */
+	function hasToAddPaddingToBottom(event) {
+		var cookieMonster = document.querySelector('#cookie-monster');
+		var footer = document.querySelector('#footer-copyright-text');
+		if ( (cookieMonster && cookieMonster.style.display === 'block') && !event) {
+			footer.style.paddingBottom = '50px';
+		} else {
+			footer.style.paddingBottom =  '0';
+		}
+	}
+
+</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.11/dist/vue.min.js"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/header-user.min.4c50d0f3.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/language-selector.min.1614f93e.js"></script>
+<script>
+  Vue.prototype.$eventBus = new Vue();
+</script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/common.min.2d3102f3.js?v=1.3.3"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/search-box.min.52d315bc.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/explore.min.cf62805e.js"></script>
+
+<script>var isoLang = 'en';</script>
+<script>
+  var countryCode = "RS";
+  var cookieWikilocConsent = "wikiloc_cookie_consent";
+  var translationsCookiesJs = {"txtCookieMonsterPopupCookie2Title":"Those of measurement and analysis, to be more professional","txtCookieMonsterConfiguration":"Manage Cookies","txtCookieMonsterAcceptCookies":"Accept Cookies","txtCookieMonsterPopupCookie1Text":"These cookies allow for the proper functioning of our website, such as browsing through the website, accessing your personal account or the use of security elements while browsing. They are necessary as they allow for communication between your device and the network, or because they provide a service specifically requested by you.","txtCookieMonsterBannerTitle":"Select your cookie preferences","txtCookieMonsterPopupTitle":"Cookie Settings","txtCookieMonsterPopupCookie1Title":"The technical and necessary ones. The ones you can't do without.","txtCookieMonsterPopupCookie2Text":"These are those cookies that allow us to quantify the number of users that enter our page and analyze the use that is made of it. The aim is precisely to constantly improve and to enhance your experience.","txtCookieMonsterPopupCookie3Title":"Those of marketing and segmented advertising","txtCookieMonsterPopupCookie3Text":"These are the types of cookies that make the management of the advertising spaces on our website possible. These cookies store information about user behavior. Although it sounds like control, it is done precisely to prevent spam from reaching you and to show you the content that we know is of greater interest for you.","txtCookieMonsterBannerText":"At Wikiloc, we use our own cookies as well as third-party cookies, just like on most websites. In our case, we use them for technical, analytical and advertising purposes only. You can choose your preferences in \"Manage Cookies\". For more information, you can visit the Cookies section of our <a href=\"\/wikiloc\/privacy.html?v4.0#cookies\" class=\"wikiloc-link\">Privacy Policy<\/a>."};
+</script>
+<div id="vue-cookie-monster"></div>
+<link rel="stylesheet"
+      href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/sid-monster.min.d57d086a.css">
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/sid-monster.min.8c42f191.js"></script>
+<script>
+  function initCookieMonster() {
+    var elementId = "vue-cookie-monster";
+    if(!document.getElementById(elementId)) {
+      return;
+    }
+
+    new Vue({
+      el: '#'+elementId,
+      data: {
+        countryCode: countryCode,
+        cookieWikilocConsent: cookieWikilocConsent,
+        i18n: translationsCookiesJs
+      },
+      template: `
+			 <cookie-monster
+			  :countryCode="countryCode"
+			  :cookieName="cookieWikilocConsent"
+			  :i18n="i18n">
+
+			</cookie-monster>
+			`
+    });
+  }
+  setTimeout(initCookieMonster, 200);
+</script><script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/fp.min.4f8a87b0.js"></script>
+	<script>
+		function socialLoginState(visitorId, confidence) {
+			var state = {
+				"step": "WEB_APPLE",
+				"language": "en",
+				"nexthop": "",
+				"securityToken": "p5dft89udosotnlupsnc37glv",
+				"id": "aa70cdfd20be662a2549b858a16f6b9d",
+				"utm": getCookie('_wlutm'),
+				"visitorId": visitorId,
+				"confidence": confidence
+			};
+			var token = document.querySelector('#tkn');
+			if (token && token.value) {
+				state.source = 'companion';
+				state.tkn = token.value;
+			}
+			return state;
+		}
+
+		document.addEventListener( 'DOMContentLoaded', async function() {
+            FingerprintJS.load().then(function (fp) {
+              return fp.get();
+            }).then(function (fingerprint) {
+              let visitorId = fingerprint.visitorId;
+              let confidence = fingerprint.confidence.score;
+              document.querySelector("#visitorId").value = visitorId;
+              document.querySelector("#confidence").value = confidence;
+              window.SocialLogin && SocialLogin.init(socialLoginState(visitorId, confidence));
+            });
+			Recaptcha.loadRecaptcha({el: '#submit-button'});
+			$('#email').focus();
+			$('#viewpass-button').on( "click", function() {
+				var obj= $('#password');
+				$(this).toggleClass('active');
+				if(obj.attr('type')=='text')
+					obj.attr('type','password');
+				else
+					obj.attr('type','text');
+				//focus
+				var strLength= obj.val().length * 2;
+				obj.focus();
+				obj[0].setSelectionRange(strLength, strLength);
+			});
+			$('#login').on('submit', function() {
+				if ( !($('#email').val().length > 0 && $('#password').val().length > 0  ) ) {
+					if ( !$('#email').val().length > 0 )
+						$('#email').focus();
+					else if ( !$('#password').val().length > 0 )
+						$('#password').focus();
+
+					$('#submit-button').addClass("animated infinite shake").delay(360).queue(function(){
+						$(this).removeClass("animated infinite shake").dequeue();
+					});
+					return false;
+				}
+			});
+		});
+	</script>
+</body>
+</html>

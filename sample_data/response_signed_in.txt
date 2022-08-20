@@ -1,0 +1,2449 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="max-image-preview:large"/>
+	<meta name="author" content="Wikiloc">
+	<meta name="title" content="Ivan Večanski's trails and waypoints | Wikiloc" />
+
+	<meta name="twitter:site" content="@wikiloc" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="Ivan Večanski's trails and waypoints | Wikiloc" />
+	<meta name="twitter:description" content="Check Ivan Večanski's trails, Waypoints, and Photos, download Ivan Večanski's GPS tracks and follow the itinerary of the routes on a map."/>
+			<meta name="description" content="Check Ivan Večanski's trails, Waypoints, and Photos, download Ivan Večanski's GPS tracks and follow the itinerary of the routes on a map."/>
+			<meta name="og:description" content="Check Ivan Večanski's trails, Waypoints, and Photos, download Ivan Večanski's GPS tracks and follow the itinerary of the routes on a map."/>
+		<meta property="og:title" content="Ivan Večanski's trails and waypoints | Wikiloc" />
+	<meta property="og:site_name" content="Wikiloc | Trails of the World" />
+
+	<title>Ivan Večanski's trails and waypoints | Wikiloc : wikiloc.com</title>
+
+	<meta name="apple-itunes-app" content="app-id=432102730, app-clip-bundle-id=com.wikiloc.wikiloc.Clip"/>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="dns-prefetch" href="https://sc.wklcdn.com">
+	<link rel="dns-prefetch" href="https://s0.wklcdn.com">
+	<link rel="dns-prefetch" href="https://s1.wklcdn.com">
+	<link rel="dns-prefetch" href="https://s2.wklcdn.com">
+	<link rel="dns-prefetch" href="https://s3.wklcdn.com">
+
+	<meta property="og:image" content="https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166" /><link rel="canonical" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035">
+		<link rel="alternate" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035" hreflang="en" />
+<link rel="alternate" href="https://es.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="es" />
+<link rel="alternate" href="https://ca.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="ca" />
+<link rel="alternate" href="https://gl.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="gl" />
+<link rel="alternate" href="https://eu.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="eu" />
+<link rel="alternate" href="https://fr.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="fr" />
+<link rel="alternate" href="https://it.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="it" />
+<link rel="alternate" href="https://sv.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="sv" />
+<link rel="alternate" href="https://nl.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="nl" />
+<link rel="alternate" href="https://de.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="de" />
+<link rel="alternate" href="https://uk.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="uk" />
+<link rel="alternate" href="https://ru.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="ru" />
+<link rel="alternate" href="https://el.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="el" />
+<link rel="alternate" href="https://sr.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="sr" />
+<link rel="alternate" href="https://hu.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="hu" />
+<link rel="alternate" href="https://pl.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="pl" />
+<link rel="alternate" href="https://pt.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="pt" />
+<link rel="alternate" href="https://tr.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="tr" />
+<link rel="alternate" href="https://is.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="is" />
+<link rel="alternate" href="https://da.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="da" />
+<link rel="alternate" href="https://zh.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="zh" />
+<link rel="alternate" href="https://fi.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="fi" />
+<link rel="alternate" href="https://ko.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="ko" />
+<link rel="alternate" href="https://nb.wikiloc.com/wikiloc/user.do?id=6046035" 	hreflang="nb" />
+<link rel="alternate" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035" hreflang="x-default" />
+
+<link rel="shortcut icon" type="image/ico" href="https://sc.wklcdn.com/favicon.ico?v=3.0"/>
+	<link rel="apple-touch-icon" href="https://sc.wklcdn.com/apple-touch-icon.png"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css"/>
+	<link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/font/wikiloc-font.woff2?35475463" rel="preload" as="font" type="font/woff2" crossorigin />
+<link href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc.min.f844bbd3.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc-v2.min.4e9634de.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/css/wikiloc-font.min.7a3ba9d0.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/search-box.min.a325253b.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/explore.min.b5d40919.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/header-user.min.73311101.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/language-selector.min.80932ac1.css" rel="stylesheet" >
+<link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/stars.min.76e88f7e.css" type="text/css" />
+	<link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/pictograms.min.d167e6e4.css?v=1.1.16" type="text/css" />
+<link rel="image_src" href="https://sc.wklcdn.com/images/pictograms/social/-thumb-big.png" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="none" onload="if(media!='all')media='all'">
+
+	<link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/user-profile-trails.min.39c8c393.css">
+        <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/login-modal.min.283ee756.css">
+        <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/add-to-fav.min.f1069e44.css">
+        <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/crud-favlist.min.c834668b.css">
+        <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/trail-card.min.1758b90e.css">
+	<link rel="stylesheet"
+		  href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/share-popover.min.df6b41ca.css">
+	<link rel="stylesheet"
+		  href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/qr-modal.min.4fbdf51b.css">
+	<link rel="stylesheet"
+		  href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/embeded-modal.min.b08cd22c.css">
+	<link rel="stylesheet"
+		  href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/mute-popover.min.1d7c435a.css">
+	<link rel="stylesheet"
+		  href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/mute-confirm-modal.min.ca7e95d5.css">
+    <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/tippy-news.min.c4b2d3ea.css" />
+
+	<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/profile.min.5d8532b4.css" rel="stylesheet"/><c:if test="false">
+<script>
+  (function(root, factory) {
+    root.Recaptcha = factory();
+  })(this, function() {
+    // Polyfill: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
+    if (typeof Object.assign !== 'function') {
+      // Must be writable: true, enumerable: false, configurable: true
+      Object.defineProperty(Object, "assign", {
+        value: function assign(target, varArgs) { // .length of function is 2
+          'use strict';
+          if (target === null || target === undefined) {
+            throw new TypeError('Cannot convert undefined or null to object');
+          }
+
+          var to = Object(target);
+
+          for (var index = 1; index < arguments.length; index++) {
+            var nextSource = arguments[index];
+
+            if (nextSource !== null && nextSource !== undefined) {
+              for (var nextKey in nextSource) {
+                // Avoid bugs when hasOwnProperty is shadowed
+                if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+                  to[nextKey] = nextSource[nextKey];
+                }
+              }
+            }
+          }
+          return to;
+        },
+        writable: true,
+        configurable: true
+      });
+    }
+
+    var widgetId = null;
+    var defaults = {
+      el: "#btn-login",
+      form: "#login",
+      sitekey: "6LfH58AUAAAAAH3Ez0eN6XLCZzQ_1x7CRNJeMp2N"
+    };
+
+    function loadRecaptcha(options) {
+      if (!grecaptcha || !grecaptcha.render) {
+        setTimeout(loadRecaptcha.bind(null, options), 0);
+        return;
+      }
+      var config = Object.assign({}, defaults, options);
+      if (widgetId === null || config.forceReload) {
+        Array.prototype.forEach.call(document.querySelectorAll(".grecaptcha-badge"), function(badge) {
+          badge.remove();
+        });
+        var el = document.querySelector(config.el);
+        if (el) {
+          widgetId = grecaptcha.render(el, {
+            sitekey: config.sitekey,
+            callback: function () {
+              if (typeof config.callback === "function") {
+                config.callback(grecaptcha.getResponse(widgetId));
+              } else {
+                var tokenInput = document.createElement("input");
+                tokenInput.type = "hidden";
+                tokenInput.name = "g-recaptcha-response";
+                tokenInput.value = grecaptcha.getResponse(widgetId);
+                var protectedForm = document.querySelector(config.form);
+                protectedForm.appendChild(tokenInput);
+                protectedForm.submit();
+              }
+            }
+          });
+          document.body.appendChild(document.querySelector(".grecaptcha-badge"));
+        }
+      } else {
+        document.querySelector(".grecaptcha-badge").style.display = "initial";
+      }
+    }
+    function unloadRecaptcha() {
+      var badge = document.querySelector(".grecaptcha-badge");
+      if (badge) {
+        badge.style.display = "none";
+      }
+    }
+
+    return {
+      loadRecaptcha: loadRecaptcha,
+      unloadRecaptcha: unloadRecaptcha
+    }
+  });
+</script>
+<script src="https://www.google.com/recaptcha/api.js?render=explicit&onload=&hl=en" defer></script>
+</c:if><script async src="https://www.googletagmanager.com/gtag/js?id=UA-349413-1"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/apply-sid-rules.min.61293dcd.js"></script>
+<script>
+  CookiePolicy.applyCookieAnalisis();
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-349413-1', {
+    'custom_map': {
+      'dimension1': 'dimension_activity',
+      'dimension2': 'dimension_country',
+      'dimension3': 'dimension_region',
+      'dimension4': 'dimension_place',
+      'dimension5': 'dimension_insession',
+      'dimension6': 'dimension_lp_country',
+      'dimension7': 'dimension_lp_region',
+      'dimension8': 'dimension_lp_place',
+      'dimension9': 'dimension_lp_activity',
+    },
+  });
+  </script>
+<script type="application/ld+json">
+	{
+		"@type": "Person",
+		"name": "Ivan Večanski",
+		"image": "https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166","description":  "", 
+		"url": "https://www.wikiloc.com/wikiloc/user.do?id=6046035"
+	}
+	</script>
+
+</head>
+<body>
+	<header>
+	<div id="vue-language-selector"></div>
+	<nav class="header" role="navigation">
+		<div class="header__content">
+            <a class="header__brand"
+               href="https://www.wikiloc.com"
+               
+            >
+                <img class="header__logo-big"
+					 src="https://sc.wklcdn.com/wikiloc/assets/styles/images/logo/wikiloc_logo.svg?v=3.0"
+					 alt="Wikiloc - Trails of the World">
+            </a>
+			<div class="header__search">
+                    <div class="component-search-box"></div>
+                </div>
+                <div class="header__explore"><span class="header__explore-or">or&nbsp;</span><div class="component-explore"></div>
+                </div>
+
+                <div class="header__create">
+                    <a href="https://www.wikiloc.com/wikiloc/create.do"
+                       class="header__create-button-big"
+                       
+                    >
+                        <span class="header__create-button-big-icon-circle"></span>
+                        <span class="header__create-button-big-text">
+                            Upload trails</span>
+                    </a>
+                    <a href="https://www.wikiloc.com/wikiloc/create.do"
+                       class="header__create-button-small"
+                       
+                    >
+                        <span class="header__create-button-small-icon-circle"></span>
+                        <span class="header__create-button-mini-icon-circle"></span>
+                    </a>
+                </div>
+                <div class="header__user">
+                    <div id="vue-header-user"></div>
+                        </div> </div> </nav>	</header>
+
+<script>
+	var translations = {"txtExploreIreland":"Ireland","txtExploreAustralia":"Australia","txtExploreTurkey":"Turkey","txtWorldmap":"World Map","txtNotificationConfirm":"Confirm","txtNotificationIgnore":"Ignore","txtTrails":"Your trails","txtSearchByText":"Trails with the text: '<span>{0}<\/span>'","txtUrlExploreMoreCountries":"trails","txtSignOut":"Sign out","txtExploreUnitedStates":"United States","txtExploreNepal":"Nepal","txtExplore":"Explore","txtGetPremium":"Upgrade to Premium","txtExploreIceland":"Iceland","txtExploreSpain":"Spain","txtExploreJapan":"Japan","txtNotificationTitle":"Pending requests from your trail buddies","txtSettings":"Settings","txtExploreChile":"Chile","txtExplorePeru":"Peru","txtChangeLanguage":"Change language","txtClose":"Close","txtProducts":"Your products","txtExploreNorway":"Norway","txtExploreMoreCountries":"More countries","txtNearbyTrails":"Nearby trails","txtSearchPlaceholder":"Search for trails","txtExploreVietnam":"Vietnam","txtExplorePhilippines":"Philippines","txtExploreTrailsIn":"Trails in <span>{0}<\/span>","txtContinue":"Continue","txtExploreNewZealand":"New Zealand","txtRecentSearches":"Recent searches","txtSearchExamples":"Try: Yosemite, Appalachian Trail","txtExploreGermany":"Germany","txtProfile":"Your profile","txtExploreItaly":"Italy","txtSearchByUser":"Members with username: '<span>{0}<\/span>'","txtExploreMorocco":"Morocco","txtWithText":"With the text '<strong>{0}<\/strong>'","txtOtherPlaces":"Others","txtExploreFrance":"France","txtExploreTitle":"A World to Explore"};
+	// Used in common-v2 vueHeaderUser initialization
+	var INJECT_HEADER = {
+		userId: "6046035",
+		username: "Ivan Večanski",
+		photo: "https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166",
+		hasPremium: true,
+		hasProducts: true,
+		hasBigAvatar: false,	// only set true at home.jsp
+		notifications: {},
+		i18n: translations,
+        languages: [{"changeLanguage":"Canvia idioma","continue":"Continua","subdomain":"ca","text":"Català"}, {"changeLanguage":"Skift sprog","continue":"Fortsæt","subdomain":"da","text":"Dansk"}, {"changeLanguage":"Sprache ändern","continue":"Fortsetzen","subdomain":"de","text":"Deutsch"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"en","text":"English"}, {"changeLanguage":"Cambia idioma","continue":"Continúa","subdomain":"es","text":"Español"}, {"changeLanguage":"Hizkuntza aldatu","continue":"Jarraitu","subdomain":"eu","text":"Euskara"}, {"changeLanguage":"Changer de langue","continue":"Continuer","subdomain":"fr","text":"Français"}, {"changeLanguage":"Cambiar idioma","continue":"Continuar","subdomain":"gl","text":"Galego"}, {"changeLanguage":"Skipta um tungumál","continue":"Halda áfram","subdomain":"is","text":"Íslenska"}, {"changeLanguage":"Cambia lingua","continue":"Continua","subdomain":"it","text":"Italiano"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"hu","text":"Magyar"}, {"changeLanguage":"Taal wijzigen","continue":"Doorgaan","subdomain":"nl","text":"Nederlands"}, {"changeLanguage":"Endre språk","continue":"Fortsett","subdomain":"nb","text":"Norsk"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"pl","text":"Polski"}, {"changeLanguage":"Mudar idioma","continue":"Continuar","subdomain":"pt","text":"Português"}, {"changeLanguage":"Vaihda kieltä","continue":"Jatka","subdomain":"fi","text":"Suomi"}, {"changeLanguage":"Ändra språk","continue":"Fortsätt","subdomain":"sv","text":"Svenska"}, {"changeLanguage":"Dili değiştir","continue":"Devam et","subdomain":"tr","text":"Türkçe"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"el","text":"Ελληνικά"}, {"changeLanguage":"Смена языка","continue":"Продолжить","subdomain":"ru","text":"Русский"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"sr","text":"Српски"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"uk","text":"Українська"}, {"changeLanguage":"改变语言","continue":"继续","subdomain":"zh","text":"中文"}, {"changeLanguage":"언어 변경","continue":"계속하기","subdomain":"ko","text":"한국어"}]
+	};
+</script>
+
+<!--[if lt IE 10]>
+<p class="browsehappy alert alert-warning text-center">Your browser version is <strong>outdated</strong>. Update your browser to view this website correctly. <a href="http://browsehappy.com/?locale=en" class="alert-link">Update my browser now</a>.</p>
+<![endif]--><script>
+		var INJECT = {}; //Due to multiple .jsp page injections, we assign the values using Object.assign()
+	</script>
+
+	<main id="page" class="container lang-anchor">
+		<div class="row username-wrapper">
+			<div class="share-three-dots-wrapper col-sm-3">
+				<a href="#" id="share-popover" class="share" rel="popover" data-content="" data-original-title="" data-placement="bottom">
+					<span id="share-icon-text">
+						<img src="https://sc.wklcdn.com/wikiloc/assets/styles/images/share/share_green.svg"/>
+						Share</span>
+				</a>
+				</div>
+			<div id="name-tags-wrapper" class="col-sm-8">
+				<h1 class="profile">
+					<span class="username-text">Ivan Večanski</span>
+					</h1>
+			</div>
+		</div>
+
+		<div id="content" class="row">
+			<div class="col-sm-3"><div class="row">
+					<div class="col-sm-12 col-xs-4"> <div style="position: relative; max-width: 235px;">
+							<a href="https://www.wikiloc.com/wikiloc/showProfile.do"><img alt="Ivan Večanski" class="img-profile img-rounded img-responsive"  src='https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166'/></a>
+										</div>
+					</div><div class="profile-info col-sm-12 col-xs-8"> <div class="user-tags profile">
+							<a href="https://help.wikiloc.com/article/185-what-is-the-userrank-on-wikiloc" class="utag userrank" title="UserRank">335</a>
+						</div>
+
+						<ul class="links">
+							<li class="comments"><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=reviews"><span class="glyphicon icon-star-empty"></span>5&nbsp;<span>Reviews</span></a></li>
+
+						</ul>
+
+						<p>Member since&nbsp;February 2020</p>
+						<p><a title="Wikiloc Premium" href="https://www.wikiloc.com/premium?ref=usr_badge" class="premium-label">Premium Member</a></p></div></div>
+			</div><div class="col-sm-8">
+
+				<style>
+	.profile-tabs {
+		padding-left: 15px !important;
+		padding-right: 15px;
+	}
+	@media (max-width: 767px) {
+		.profile-tabs > li {
+			width: 100%;
+			text-align: center;
+		}
+	}
+</style>
+	<ul class="bubblenav clearfix">
+	<li class="current"><a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035">40<span>Trails</span></a></li>
+				<li >
+		<a id="fav-nav-tab" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=listfavorites">
+			<span class="your-lists-icon your-lists-icon-black"></span>
+				<span>
+				Your lists</span>
+		</a>
+	</li>
+	<li ><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=followers" ><b id="followers-number">1</b><span>Followers</span></a></li>
+	<li ><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=following" ><b id="following-number">5</b><span>Following</span></a></li>
+	<li ><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=companions"><b id="companions-number">0</b><span>Trail buddies</span></a></li>
+	<li ><a class="icon-chart-bar" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=stats" rel="nofollow"><span>Statistics</span></a></li>
+	</ul><div class="row">
+			<ul class="profile-tabs clearfix">
+				<li class="current">
+					<a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035">
+						Your trails (40)</a>
+				</li>
+				<li>
+					<a rel="nofollow" href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;event=trails" class="participated-trails">
+						Trails where you've been&nbsp;(0)</a>
+				</li>
+
+				</ul>
+		</div>
+		<div class="row">
+			<div class="col-md-offset-4 col-md-5 col-lg-offset-4 col-lg-5">
+							</div>
+						<div class="col-md-3 col-lg-3">
+							<a onclick="gtag('event', 'profile_user', {event_category: 'show_map'});" rel="nofollow"
+							   href="/wikiloc/logProfiles.do?event=redirectToMap&uid=6046035&uid-privacy=public"
+							   class="search-button btn btn-success btn-block"
+							   role="button">
+								<span class="glyphicon icon-search"></span>
+								Show map</a>
+							</div>
+					</div>
+
+		<div class="trail-list-profile-wrapper">
+			<ul class="trail-list-profile" style="clear: both;">
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638?" @click.stop="emptyMethod">
+                            <h3>Slap Savica (izvor Save Bohinjke)</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>1.86&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>151&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>15</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638/photo-52521128?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s2.wklcdn.com/image_201/6046035/80682638/52521128.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Slap Savica (izvor Save Bohinjke)</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">1.86&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">151&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>15</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638/photo-52521128?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s2.wklcdn.com/image_201/6046035/80682638/52521128.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638/photo-52521140?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s2.wklcdn.com/image_201/6046035/80682638/52521140_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/slap-savica-izvor-save-bohinjke-80682638/photo-52521152?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s2.wklcdn.com/image_201/6046035/80682638/52521152_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655?" @click.stop="emptyMethod">
+                            <h3>Stara planina - Orlova stena i vidikovac Bolvan u pokušaju</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>5.59&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>157&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>29</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655/photo-51850753?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s1.wklcdn.com/image_201/6046035/79766655/51850753.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Stara planina - Orlova stena i vidikovac Bolvan u pokušaju</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">5.59&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">157&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>29</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655/photo-51850753?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s1.wklcdn.com/image_201/6046035/79766655/51850753.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655/photo-51850801?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s1.wklcdn.com/image_201/6046035/79766655/51850801_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655/photo-51850806?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s0.wklcdn.com/image_201/6046035/79766655/51850806_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/stara-planina-babin-zub-79727524?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/stara-planina-babin-zub-79727524?" @click.stop="emptyMethod">
+                            <h3>Stara planina - Babin zub</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>7.76&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>309&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>35</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/stara-planina-babin-zub-79727524/photo-51889920?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/79727524/51889920.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/stara-planina-babin-zub-79727524?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/stara-planina-babin-zub-79727524?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Stara planina - Babin zub</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">7.76&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">309&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>35</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/stara-planina-babin-zub-79727524/photo-51889920?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s0.wklcdn.com/image_201/6046035/79727524/51889920.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/stara-planina-babin-zub-79727524/photo-51889944?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s0.wklcdn.com/image_201/6046035/79727524/51889944_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/stara-planina-babin-zub-79727524/photo-51889966?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s1.wklcdn.com/image_201/6046035/79727524/51889966_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845?" @click.stop="emptyMethod">
+                            <h3>Stara planina - vidikovac Koziji kamen</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>6.32&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>197&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>32</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845/photo-51849800?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s2.wklcdn.com/image_201/6046035/79668845/51849800.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Stara planina - vidikovac Koziji kamen</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">6.32&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">197&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>32</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845/photo-51849800?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s2.wklcdn.com/image_201/6046035/79668845/51849800.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845/photo-51849815?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s2.wklcdn.com/image_201/6046035/79668845/51849815_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845/photo-51849824?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s2.wklcdn.com/image_201/6046035/79668845/51849824_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/bukulja-79036318?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/bukulja-79036318?" @click.stop="emptyMethod">
+                            <h3>Bukulja</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>4.44&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>281&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>11</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/bukulja-79036318/photo-51384946?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s1.wklcdn.com/image_201/6046035/79036318/51384946.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/bukulja-79036318?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/bukulja-79036318?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Bukulja</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">4.44&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">281&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>11</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/bukulja-79036318/photo-51384946?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s1.wklcdn.com/image_201/6046035/79036318/51384946.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/bukulja-79036318/photo-51384957?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s0.wklcdn.com/image_201/6046035/79036318/51384957_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/bukulja-79036318/photo-51384958?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s1.wklcdn.com/image_201/6046035/79036318/51384958_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/kucajske-planine-straza-i-lisac-78065156?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156?" @click.stop="emptyMethod">
+                            <h3>Kučajske planine - Straža i Lisac</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>19.94&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>508&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>29</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156/photo-50828516?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s2.wklcdn.com/image_201/6046035/78065156/50828516.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/kucajske-planine-straza-i-lisac-78065156?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Kučajske planine - Straža i Lisac</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">19.94&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">508&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>29</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156/photo-50828516?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s2.wklcdn.com/image_201/6046035/78065156/50828516.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156/photo-50828518?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s1.wklcdn.com/image_201/6046035/78065156/50828518_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/kucajske-planine-straza-i-lisac-78065156/photo-50828524?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s1.wklcdn.com/image_201/6046035/78065156/50828524_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/mucanj-77298287?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/mucanj-77298287?" @click.stop="emptyMethod">
+                            <h3>Mučanj</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>14.35&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>425&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>27</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/mucanj-77298287/photo-50408907?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/77298287/50408907.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/mucanj-77298287?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/mucanj-77298287?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Mučanj</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">14.35&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">425&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>27</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/mucanj-77298287/photo-50408907?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s0.wklcdn.com/image_201/6046035/77298287/50408907.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/mucanj-77298287/photo-50408926?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s1.wklcdn.com/image_201/6046035/77298287/50408926_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/mucanj-77298287/photo-50408986?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s1.wklcdn.com/image_201/6046035/77298287/50408986_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/katici-karadordev-sanac-77225638?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/katici-karadordev-sanac-77225638?" @click.stop="emptyMethod">
+                            <h3>Katići - Karađorđev šanac</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>3.40&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>73&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>20</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/katici-karadordev-sanac-77225638/photo-52673246?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s2.wklcdn.com/image_201/6046035/77225638/52673246.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/katici-karadordev-sanac-77225638?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/katici-karadordev-sanac-77225638?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Katići - Karađorđev šanac</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">3.40&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">73&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>20</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/katici-karadordev-sanac-77225638/photo-52673246?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s2.wklcdn.com/image_201/6046035/77225638/52673246.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/katici-karadordev-sanac-77225638/photo-52673248?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s1.wklcdn.com/image_201/6046035/77225638/52673248_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/katici-karadordev-sanac-77225638/photo-52673250?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s0.wklcdn.com/image_201/6046035/77225638/52673250_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/divcibare-75157199?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/divcibare-75157199?" @click.stop="emptyMethod">
+                            <h3>Divčibare</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__body trail-card__body-column" style="width: 100%">
+                            <div class="trail-card__left trail-card__left-row">
+                                <div class="trail-card__left-item">
+                                    <small>Distance</small>
+                                    <h4>3.48&nbsp;km</h4>
+                                </div>
+                                <div class="trail-card__left-item">
+                                    <small>Elevation +</small>
+                                    <h4>103&nbsp;m</h4>
+                                </div>
+                                <div class="trail-card__left-item">
+                                    <small>TrailRank</small>
+                                    <h4>
+                                        <div class="trail-list__rating-container">
+                                            <span>3</span>
+                                            </div>
+                                    </h4>
+                                </div>
+                                </div>
+                            <div class="trail-card__right trail-card__right-row">
+                                <div>
+                                    <div></div>
+                                </div>
+                                <!--Companions block-->
+                                <a href="/wikiloc/user.do?id=6046035&"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__username">
+                                        <img loading="lazy" class="trail-list__author-img"
+                                             src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                        <small class="trail-list__author-txt">Ivan Večanski</small>
+                                    </a>
+                                <!---->
+                            </div>
+                        </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/divcibare-75157199?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/divcibare-75157199?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Divčibare</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">3.48&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">103&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>3</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <div v-if="!firstImage">
+                                    <img :class="trailListImageSmallCssClass"
+                                         src="https://sc.wklcdn.com/wikiloc/assets/styles/images/search/image-gap.svg">
+                                </div>
+                            </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			<li>
+                    <div class="figure__card">
+                        <div class="figure__card-vue"></div>
+                        <div class="figure__card-panel figure__card-panel--mobile">
+                            <!-- Trail Card -->
+<div class="trail trail-card" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave"
+             data-prettyurl="/hiking-trails/stepin-gaj-67858031?">
+            <div class="trail-card__header">
+                <div class="trail-card__pictogram">
+                    <img loading="lazy"
+                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                 alt="Hiking" width="25" height="25"/>
+                        </div>
+                <div class="trail-card__title">
+                    <div class="trail-card__title-wrapper" ref="titleWrapperResponsive">
+                        <a href="/hiking-trails/stepin-gaj-67858031?" @click.stop="emptyMethod">
+                            <h3>Stepin Gaj</h3>
+                        </a>
+                    </div>
+                    <div class="trail-card__title-sub">
+                        <small class="trail-card__pictogram-text">Hiking</small>
+                        <div class="trail-card__fav">
+                            <!-- Use trail-card.js to enable this feature-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="trail-card__body">
+                <div class="trail-card__left">
+                            <div class="trail-card__left-item">
+                                <small>Distance</small>
+                                <h4>3.66&nbsp;km</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>Elevation +</small>
+                                <h4>120&nbsp;m</h4>
+                            </div>
+                            <div class="trail-card__left-item">
+                                <small>TrailRank</small>
+                                <h4>
+                                    <div class="trail-list__rating-container">
+                                        <span>8</span>
+                                        </div>
+                                </h4>
+                            </div>
+                            </div>
+                        <!-- Images block-->
+                        <div class="trail-card__right">
+                            <span v-if="firstImage"
+                               data-href="/hiking-trails/stepin-gaj-67858031/photo-44746346?"
+                               @click.stop="launchViewer"
+                               class="trail-card__right__image" :class="trailListSideCssClass">
+                                <img loading="lazy"
+                                         src="https://s2.wklcdn.com/image_201/6046035/67858031/44746346.180x180.jpg"/>
+                                </span>
+                            <!--Companions block-->
+                            <a href="/wikiloc/user.do?id=6046035&"
+                                   @click.stop="emptyMethod"
+                                   class="trail-list__username">
+                                    <img class="trail-list__author-img" loading="lazy"
+                                         src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                                    <small class="trail-list__author-txt">Ivan Večanski</small>
+                                </a>
+                            </div>
+                    </div>
+        </div>
+    </div>
+                        <div class="figure__card-panel figure__card-panel--others">
+                            <!-- Trail Card -->
+<div class="trail trail-list" :class="highlightCssClass" @click="openDetail(false)"
+             @mouseenter="mouseenter" @mouseleave="mouseleave" data-prettyurl="/hiking-trails/stepin-gaj-67858031?">
+            <div class="trail-list__wrapper">
+                <div class="trail-list__main">
+                    <div class="trail-list__header">
+
+                        <div class="trail-list__title">
+                            <div class="trail-list__title-sub">
+                                <div class="trail-list__pictogram">
+                                    <img loading="lazy"
+                                                 src="https://sc.wklcdn.com/wikiloc/images/pictograms/svg/1.svg"
+                                                 alt="Hiking" width="25"
+                                                 height="25">
+                                        </div>
+                                <small class="trail-list__pictogram-text">Hiking</small>
+
+                                <small class="trail-list__fav">
+                                    <!-- Use trail-card.js to enable this feature-->
+                                </small>
+                            </div>
+                            <div class="trail-list__title-wrapper" ref="titleWrapper">
+                                <a href="/hiking-trails/stepin-gaj-67858031?" @click.stop="emptyMethod">
+                                    <h3 ref="title">Stepin Gaj</h3>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="trail-list__body">
+                        <div class="trail-list__item">
+                            <small>Distance</small>
+                            <h4 title="Distance">3.66&nbsp;km</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>Elevation +</small>
+                            <h4 title="Elevation Gain">120&nbsp;m</h4>
+                        </div>
+                        <div class="trail-list__item">
+                            <small>TrailRank</small>
+                            <h4 title="Trail rank">
+                                <div class="trail-list__rating-container">
+                                    <span>8</span>
+                                    </div>
+                            </h4>
+                        </div>
+                        </div>
+                </div>
+                <div class="trail-list__offmain" :class="trailListOffMainCssClass">
+                    <div class="trail-list__images">
+                        <a v-if="firstImage"
+                                       href="/hiking-trails/stepin-gaj-67858031/photo-44746346?"
+                                       @click.stop="emptyMethod"
+                                       class="trail-list__side" :class="trailListSideCssClass">
+                                        <img loading="lazy"
+                                             src="https://s2.wklcdn.com/image_201/6046035/67858031/44746346.180x180.jpg">
+                                    </a>
+                                <div v-if="isShowAllImages" class="trail-list__optional">
+                                        <a v-if="secondImage"
+                                           href="/hiking-trails/stepin-gaj-67858031/photo-44746365?"
+                                           @click.stop="emptyMethod"
+                                           class="trail-list__optional-link trail-list__optional-link--first">
+                                            <img loading="lazy"
+                                                 src="https://s0.wklcdn.com/image_201/6046035/67858031/44746365_tn.jpg">
+                                        </a>
+                                        <a v-if="thirdImage"
+                                               href="/hiking-trails/stepin-gaj-67858031/photo-44746375?"
+                                               @click.stop="emptyMethod"
+                                               class="trail-list__optional-link">
+                                                <img loading="lazy"
+                                                     src="https://s1.wklcdn.com/image_201/6046035/67858031/44746375_tn.jpg">
+                                            </a>
+                                        </div>
+                                </div>
+                    <a href="/wikiloc/user.do?id=6046035&" @click.stop="emptyMethod"
+                           class="trail-list__username">
+                            <img loading="lazy" class="trail-list__author-img"
+                                 src="https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166">
+                            <small class="trail-list__author-txt">Ivan Večanski</small>
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+                </li>
+			</ul>
+            </div>
+			<link rel="stylesheet"
+      href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/pagination.min.77d76d81.css">
+<style>
+  .pagination {
+    margin-top: 40px;
+  }
+  .pagination__item a {
+    color: #555;
+    text-decoration: none;
+  }
+  @media (max-width: 480px) {
+      .pagination>a, .pagination>span {
+          margin: 0 0.9px;
+      }
+  }
+</style>
+
+<nav class="pagination col-sm-offset-0 col-sm-12 col-xs-offset-2 col-xs-10">
+  <span class="pagination__item" @click="goPreviousPage">
+            <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=10&to=20">
+                <img class="pagination__prev-page"
+                     src="https://sc.wklcdn.com/wikiloc/assets/styles/images/search/dropdown.svg">
+            </a>
+        </span>
+  <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=0&to=10"
+     class="pagination__item ">
+    1
+  </a>
+  <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=10&to=20"
+       class="pagination__item ">
+        2</a>
+  <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=20&to=30"
+       class="pagination__item pagination__item--active">
+        3</a>
+  <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=30&to=40"
+       class="pagination__item ">
+        4</a>
+
+  <a href="https://www.wikiloc.com/wikiloc/user.do?id=6046035&amp;from=30&to=40"
+       class="pagination__item" @click="goNextPage">
+      <img class="pagination__next-page"
+           src="https://sc.wklcdn.com/wikiloc/assets/styles/images/search/dropdown.svg"/>
+    </a>
+  </nav>
+
+</div>
+		</div></main>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.11/dist/vue.min.js"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/header-user.min.4c50d0f3.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/language-selector.min.1614f93e.js"></script>
+<script>
+  Vue.prototype.$eventBus = new Vue();
+</script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/common.min.2d3102f3.js?v=1.3.3"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/search-box.min.52d315bc.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/explore.min.cf62805e.js"></script>
+
+<script>var isoLang = 'en';</script>
+<script>
+  var countryCode = "RS";
+  var cookieWikilocConsent = "wikiloc_cookie_consent";
+  var translationsCookiesJs = {"txtCookieMonsterPopupCookie2Title":"Those of measurement and analysis, to be more professional","txtCookieMonsterConfiguration":"Manage Cookies","txtCookieMonsterAcceptCookies":"Accept Cookies","txtCookieMonsterPopupCookie1Text":"These cookies allow for the proper functioning of our website, such as browsing through the website, accessing your personal account or the use of security elements while browsing. They are necessary as they allow for communication between your device and the network, or because they provide a service specifically requested by you.","txtCookieMonsterBannerTitle":"Select your cookie preferences","txtCookieMonsterPopupTitle":"Cookie Settings","txtCookieMonsterPopupCookie1Title":"The technical and necessary ones. The ones you can't do without.","txtCookieMonsterPopupCookie2Text":"These are those cookies that allow us to quantify the number of users that enter our page and analyze the use that is made of it. The aim is precisely to constantly improve and to enhance your experience.","txtCookieMonsterPopupCookie3Title":"Those of marketing and segmented advertising","txtCookieMonsterPopupCookie3Text":"These are the types of cookies that make the management of the advertising spaces on our website possible. These cookies store information about user behavior. Although it sounds like control, it is done precisely to prevent spam from reaching you and to show you the content that we know is of greater interest for you.","txtCookieMonsterBannerText":"At Wikiloc, we use our own cookies as well as third-party cookies, just like on most websites. In our case, we use them for technical, analytical and advertising purposes only. You can choose your preferences in \"Manage Cookies\". For more information, you can visit the Cookies section of our <a href=\"\/wikiloc\/privacy.html?v4.0#cookies\" class=\"wikiloc-link\">Privacy Policy<\/a>."};
+</script>
+<div id="vue-cookie-monster"></div>
+<link rel="stylesheet"
+      href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/sid-monster.min.d57d086a.css">
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/sid-monster.min.8c42f191.js"></script>
+<script>
+  function initCookieMonster() {
+    var elementId = "vue-cookie-monster";
+    if(!document.getElementById(elementId)) {
+      return;
+    }
+
+    new Vue({
+      el: '#'+elementId,
+      data: {
+        countryCode: countryCode,
+        cookieWikilocConsent: cookieWikilocConsent,
+        i18n: translationsCookiesJs
+      },
+      template: `
+			 <cookie-monster
+			  :countryCode="countryCode"
+			  :cookieName="cookieWikilocConsent"
+			  :i18n="i18n">
+
+			</cookie-monster>
+			`
+    });
+  }
+  setTimeout(initCookieMonster, 200);
+</script><script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/wikiloc_qr_code_generator.min.3256d237.js"></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/share-popover.min.006cdf5d.js"></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/qr-modal.min.03b4c810.js"></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/embeded-modal.min.2bb5b0e1.js"></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/mute-popover.min.c3b60e76.js"></script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/mute-confirm-modal.min.3be83033.js"></script>
+
+	<script>
+			var translations = {"txtEmailBodyEmpty":"Please enter the text of the message you wish to send","txtPrintThisCode":"Print this code","txtUoms_m":"m","txtUnfollow":"Unfollow","txtCartaDeRutesButton":"Print Map of Trails","txtCartaDeRutesStep1FieldFormatSheet":"Sheet","txtCartaDeRutesStep2FieldTrailsErrorZero":"*Please, select at least one trail","txtUoms_f":"ft","txtMuteConfirmModalTitle":"Are you sure?","txtCartaDeRutesStep2LimitTrails":"{0}\/{1} trails","txtFollowing":"Following","txtModalPremiumLogin":"Already a member? Log in","txtFollowModalPhotoOf":"Photo of","txtMutePopoverUnmute":"Unmute @Ivan Večanski","txtFollowModalTitle":"Trail added to your favorites","txtCopyLink":"Copy link","txtRemaining":"remaining","txtFilterDistance":"Distance","txtPrivacy":"Privacy","txtCartaDeRutesStep1FieldFormatDesc":"Choose the size that best suits your needs.","txtShareByEmailTitle":"Check out this Wikiloc member's profile!","txtNReviews":"{0} Reviews","txtTrailCardViewsAndDownloads":"<strong>Viewed<\/strong> {0} times, <strong>downloaded<\/strong> {1} times","txtPremiumFeature":"PREMIUM FEATURE","txtPrivate":"Private","txtPrivacyHelp":"Private lists are visible to you alone and cannot be shared","txtCartaDeRutesStep2DownloadButton":"Download","txtLoginModalLoginEmailUsername":"Email or username","txtCartaDeRutesPopoverPopover":"Create a map of trails from any of your lists, download it and print it.","txtTrial":"Get a FREE 14-day trial","txtHintDesc":"Create a map of trails from any of your lists, download it and print it.","txtUserActionEdit":"Edit","txtFeatureName":"Specific-member Trail Search","txtCartaDeRutesStep1FieldTitleError":"*Please, enter a title","txtCartaDeRutesTitle":"Print Map of Trails of \"{0}\"","txtCartaDeRutesStep1FieldLogoSizeError":"*The image must have a maximum size of 1 MB","txtNewList":"New List","txtLoginModalSignupTitle":"Sign up","txtViewList":"View all","txtRemainingList":"???en.view-action.favorite-list.remaining-list???","txtCartaDeRutesStep2Back":"Back","txtCartaDeRutesPopoverTitle":"New!","txtCartaDeRutesStep1FieldTitleDesc":"Add a heading for your Map of Trails. E.g: \u201CThe best hiking trails near Barcelona\u201D.","txtLoginModalLoginOr":"Or","txtMuteConfirmModalCancel":"Cancel","txtCartaDeRutesStep1FieldDescriptionDesc":"Add a brief explanation about your Map of Trails.","txtMuteConfirmModalConfirm":"Confirm","txtCartaDeRutesStep1NextButton":"Next","txtFollowModalDiscover":"Follow {0} and discover new trails!","txtCartaDeRutesStep1FieldLocation":"Location","txtLoginModalLoginTitle":"Log into Wikiloc","txtUoms_nm":"nm","txtCartaDeRutesStep1FieldLocationInclude":"Include a \u201CYou are here\u201D pin on your map of trails","txtUserActionEditCompanion":"Add trail buddies","txtCartaDeRutesStep1FieldLocationMapHelp":"Click on the map to mark where your map of trails will be displayed.","txtLoginModalLoginForgotPwd":"Forgot your password?","txtCartaDeRutesStep1FieldLogoFormatError":"*Please, upload an image (.jpg, .jpeg, .png)","txtShareByEmailDescription":"Hi,\n\nCheck out my Wikiloc profile: {0}","txtLoginModalLoginButton":"Sign In","txtCartaDeRutesStep2Trails":"This format ({0}) can fit up to {1} trails, please choose the trails you want to show:","txtFilterElevation":"Elevation +","txtReachedLimit":"You have reached the maximum number of lists","txtPlaceholderList":"Enter List name","txtEmailEmpty":"The email doesn't seem valid.","txtMutePopoverMute":"Mute @Ivan Večanski","txtOpenThisTrail":"Open this profile by scanning this QR code from the Wikiloc App search bar.","txtUoms_mi":"mi","txtCartaDeRutesStep1FieldLogoButton":"Change image","txtCartaDeRutesStep1Body":"Turn any of your lists (trails\/your lists) into printable maps to help visitors in your area discover amazing trails. <a class=\"link_green\" href=\"https:\/\/help.wikiloc.com\/article\/830-create-print-map-of-trails\">More information.<\/a>","txtCartaDeRutesStep1FieldFormat":"Format","txtLoginModalSignupButton":"Create your account","txtLoginModalLoginPwd":"Password","txtHintTitle":"New!","txtUoms_km":"km","txtNameList":"Name","txtCartaDeRutesStep2FieldTrailsErrorMax":"*Please, select at least {0} trails","txtCartaDeRutesStep1FieldLogoDesc":"Upload an image to visually identify your brand. (Max size: 1 MB)","txtLoginModalLoginSubtitle":"Not a member yet?","txtLoginModalSignupWhyA":"Store and manage all your GPS tracks","txtLoginModalSignupWhyB":"Add photos and videos to your routes","txtFeatureDescription":"<p>We all have that friend who shares great trails.<\/p><p>Now search for trails by profiles.<\/p>","txtLoginModalSignupWhyC":"Create your own map of routes","txtMuteConfirmModalDescription":"Mute someone if you don\u2019t want to get notifications about their activity. Wikiloc won\u2019t let them know they\u2019re muted.","txtCartaDeRutesStep2PreviewButton":"Preview","txtCartaDeRutesMapOnTheWay":"<p class=\"title\"><b>Your Map of Trails is on its way!<\/b><\/p>\n<p>Check your inbox to download your Map of Trails.<\/p>","txtCartaDeRutesStep1FieldDescription":"Description","txtLoginModalSignupWhyD":"Share your favorite trails with your friends","txtCartaDeRutesStep1FieldLogo":"Logo","txtNotNow":"NOT NOW","txtWikilocPremium":"Upgrade to Premium","txtFollow":"Follow","txtTrailrank":"TrailRank","txtCartaDeRutesStep1FieldTitle":"Title","txtCartaDeRutesStep1FieldLocationDesc":"Type the address where your map of trails will be displayed or directly click on the map.","txtFollowModalFollowButton":"Follow","txtWith":"with","txtCartaDeRutesStep1FieldMaxCharacters":"{0}\/{1} characters","txtLoginModalLoginCreateAccount":"<a href=\"\/wikiloc\/signingup.do\">Create an account<\/a>","txtCartaDeRutesStep1FieldFormatPoster":"Poster","txtCreateList":"Create","txtCartaDeRutesStep2Help":"<b>Do you want to filter your trail search or add routes from other users?<\/b><br\/>\nSearch for them on Wikiloc, add them to one of your lists, and print the map from the list. <a class=\"link_green\" href=\"https:\/\/help.wikiloc.com\/article\/830-create-print-map-of-trails\">More information.<\/a>","txtAddToList":"Save to a List","txtPublic":"Public"};
+			var availableLists = parseInt("");
+
+			var favoriteCreateList = {
+				addToList: translations.txtAddToList,
+				createList: translations.txtCreateList,
+				newList: translations.txtNewList,
+				nameList: translations.txtNameList,
+				placeholderList: translations.txtPlaceholderList,
+				saveList: translations.txtSaveList,
+				privacy: translations.txtPrivacy,
+				privacyHelpList: translations.txtPrivacyHelp,
+				public: translations.txtPublic,
+				private: translations.txtPrivate,
+				availableLists: availableLists + ' ' + translations.txtRemaining
+			};
+			var favoriteEditList = {
+				editList: translations.txtEditList,
+				nameList: translations.txtNameList,
+				placeholderList: translations.txtPlaceholderList,
+				saveList: translations.txtSaveList,
+				deleteList: translations.txtDeleteList,
+				updateList: translations.txtUpdateList,
+				privacy: translations.txtPrivacy,
+				privacyHelpList: translations.txtPrivacyHelp,
+				public: translations.txtPublic,
+				private: translations.txtPrivate,
+				deleteListHelp: translations.txtDeleteHelp
+			};
+
+			var txtTrails = translations.txtTrails;
+		</script>
+	<div id="vue-share-popover"></div>
+	<div id="vue-share-popover-lists"></div>
+	<div id="vue-mute-popover"></div>
+
+	<footer id="footer-main" >
+		<div id="footer-nav" class="container">
+			<div class="row">
+				<div class="col-sm-2 col-xs-12">
+					<h2>Get the App</h2>
+					<div class="col-sm-12 col-xs-6 remove-padding-left">
+						<a href="https://apps.apple.com/us/app/wikiloc-outdoor-navigation-gps/id432102730?pt=502712&ct=wikiloc_banner_footer&mt=8" >
+							<img class="img-responsive" width="135" height="40" loading="lazy" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/apple-store.png" alt="Available on the iPhone App Store"  />
+						</a>
+					</div>
+					<div class="col-sm-12 col-xs-6 remove-padding-left">
+						<a href='https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid&hl=en&referrer=utm_source%3Dfooter%26utm_medium%3Dweb%26utm_campaign%3Dwikiloc_app_banner' >
+							<img class="img-responsive" height="40" width="135" loading="lazy" alt="Get it on Google Play" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/google-play-badge-en.png"/>
+						</a>
+					</div>
+				</div>
+				<div class="col-sm-9">
+					<div class="col-sm-6 col-xs-12">
+						<h2>Explore Trails</h2>
+						<div class="row">
+						    <div class="col-xs-6 col-md-6 col-sm-6">
+                                <ul>
+                                    <li><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/map.do" >World Map</a></li>
+                                    <li><a rel="nofollow" href="https://www.wikiloc.com/wikiloc/map.do?sw=-80.41570744462179%2C-202.85156250000003&ne=80.53207112232734%2C202.1484375&viewMode=1" >Explore by Photos</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails" >All Activities & Countries</a></li>
+                                    <li><a href="https://www.wikiloc.com/planet/" >Wikiloc Planet</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-xs-6 col-md-6 col-sm-6">
+                                <ul>
+                                        <li><a href="https://www.wikiloc.com/trails/hiking " >Hiking</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails/mountain-biking " >Mountain Bike</a></li>
+                                    <li><a href="https://www.wikiloc.com/trails/cycling " >Road Bike</a></li>
+                                    <li><a href="https://www.wikiloc.com/wikiloc/orgs.do" >Official Trails</a></li>
+                                </ul>
+                            </div>
+                        </div>
+					</div>
+					<div class="col-sm-3 col-xs-6">
+						<h2>About Wikiloc</h2>
+						<ul>
+							<li><a href="https://www.wikiloc.com/wikiloc/about-us.do" >About us</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/findPeople.do"
+								   >Community Members</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/donate.do?event=donors" >Donors</a></li>
+							<li><a href="https://help.wikiloc.com" >Help Center</a></li>
+							<li><a href="https://www.wikiloc.com/jobs" >Jobs</a></li>
+						</ul>
+					</div>
+					<div class="col-sm-3 col-xs-6">
+						<h2>Services</h2>
+						<ul>
+							<li><a href="https://www.wikiloc.com/premium?ref=footer" >Wikiloc Premium</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/pois.do" >Promote your business</a></li>
+							<li><a href="https://www.wikiloc.com/wikiloc/org.do" >Promote your trails</a></li>
+							</ul>
+					</div>
+				</div>
+				<div class="col-sm-1 col-xs-6">
+					<a style="text-decoration:none; padding-top: 13px;" href="/wikiloc/one-percent.do" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'open-one-percent-landing', transport_type: 'beacon'});">
+						<img class="img-responsive"
+							 loading="lazy"
+							 width="526" height="676"
+							 style="width: 100px"
+							 src="https://sc.wklcdn.com/wikiloc/assets/styles/images/onepercent/onepercent-logo-vertical-white.png"
+							 alt="Logo 1% for the Planet"
+							 title="Logo 1% for the Planet"/>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="container-grey">
+			<div id="footer-copyright" class="container">
+				<div id="footer-copyright-ornament"></div>
+				<div class="row reorder-xs">
+					<div id="footer-copyright-text" class="col-xs-12 col-sm-8 col-md-9">
+						<p>&copy; Wikiloc. All rights reserved. <a href="https://www.wikiloc.com/wikiloc/terms_en.html?v=6.0" >Terms of use</a> | <a href="https://www.wikiloc.com/wikiloc/privacy.html?v4.0" >Privacy</a> | <a href="https://www.wikiloc.com/wikiloc/privacy.html?v4.0#cookies" >Cookie policy</a></p>
+					</div>
+					<div id="social-media" class="col-xs-12 col-sm-3 col-md-2">
+						<div>
+							<a href="https://twitter.com/wikiloc" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'redirect-to-twitter-account', transport_type: 'beacon'});">
+								<img alt="Twitter icon" class="social-icon social-icon-white pul-right" loading="lazy" width="30" height="26" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/icons/icon-twitter.png"/>
+							</a>
+							<a href="https://instagram.com/wikiloc/" onclick="gtag('event', 'click', {event_category: 'link', event_label: 'redirect-to-instagram-account', transport_type: 'beacon'});">
+								<img alt="Instagram icon" class="social-icon social-icon-white pul-right" loading="lazy" width="30" height="30" src="https://sc.wklcdn.com/wikiloc/assets/styles/images/icons/icon-instagram.png"/>
+							</a>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-1 col-md-1">
+							<div id="select-language" class="dropup">
+								<a href="#" class="dropdown-toggle btn" data-toggle="dropdown">
+									English<span class="icon icon-up-open"></span>
+								</a>
+								<ul id="lang-selector" class="dropdown-menu dropdown-menu-right">
+									<li><a id="en" href="https://www.wikiloc.com">English</a></li>
+									<li><a id="ca" href="//ca.wikiloc.com">Català</a></li><li><a id="da" href="//da.wikiloc.com">Dansk</a></li><li><a id="de" href="//de.wikiloc.com">Deutsch</a></li><li><a id="es" href="//es.wikiloc.com">Español</a></li><li><a id="eu" href="//eu.wikiloc.com">Euskara</a></li><li><a id="fr" href="//fr.wikiloc.com">Français</a></li><li><a id="gl" href="//gl.wikiloc.com">Galego</a></li><li><a id="is" href="//is.wikiloc.com">Íslenska</a></li><li><a id="it" href="//it.wikiloc.com">Italiano</a></li><li><a id="hu" href="//hu.wikiloc.com">Magyar</a></li><li><a id="nl" href="//nl.wikiloc.com">Nederlands</a></li><li><a id="nb" href="//nb.wikiloc.com">Norsk</a></li><li><a id="pl" href="//pl.wikiloc.com">Polski</a></li><li><a id="pt" href="//pt.wikiloc.com">Português</a></li><li><a id="fi" href="//fi.wikiloc.com">Suomi</a></li><li><a id="sv" href="//sv.wikiloc.com">Svenska</a></li><li><a id="tr" href="//tr.wikiloc.com">Türkçe</a></li><li><a id="el" href="//el.wikiloc.com">Ελληνικά</a></li><li><a id="ru" href="//ru.wikiloc.com">Русский</a></li><li><a id="sr" href="//sr.wikiloc.com">Српски</a></li><li><a id="uk" href="//uk.wikiloc.com">Українська</a></li><li><a id="zh" href="//zh.wikiloc.com">中文</a></li><li><a id="ko" href="//ko.wikiloc.com">한국어</a></li><li class="arrow"></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+			</div>
+</div>
+	</footer>
+<script>
+	var isLangCancelled = false;
+
+	window.addEventListener('DOMContentLoaded', function (event) {
+		var switchLangCancel = document.querySelector('#switch_lang_cancel');
+		if(switchLangCancel) {
+			switchLangCancel.addEventListener('click', function () {
+				isLangCancelled = true;
+			});
+		}
+		hasToAddPaddingToBottom();
+		var accept = document.querySelector('#acept-cookies');
+		if(accept) {
+			accept.addEventListener('click', function (event) {
+				accept.style.display = 'none';
+				hasToAddPaddingToBottom(event);
+			});
+		}
+
+		var selectLanguage = document.querySelector('#select-language');
+		if(selectLanguage) {
+			selectLanguage.addEventListener('click', function () {
+				var switchLangCancel = document.querySelector('#switch_lang_cancel');
+				if (switchLangCancel) {
+					switchLangCancel.click();
+				}
+			});
+		}
+	});
+
+	/**
+	 * Add padding to the bottom of the page if the cookie is displayed
+	 */
+	function hasToAddPaddingToBottom(event) {
+		var cookieMonster = document.querySelector('#cookie-monster');
+		var footer = document.querySelector('#footer-copyright-text');
+		if ( (cookieMonster && cookieMonster.style.display === 'block') && !event) {
+			footer.style.paddingBottom = '50px';
+		} else {
+			footer.style.paddingBottom =  '0';
+		}
+	}
+
+</script><script>
+		    let trails = [{"nViews":55,"nDownloads":0,"id":"80682638","name":"Slap Savica (izvor Save Bohinjke)","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"1.86","uom":"km","slope":"151","uomslope":"m","thumbs":[{"id":52521128,"url":"https://s2.wklcdn.com/image_201/6046035/80682638/52521128_tn.jpg"},{"id":52521140,"url":"https://s2.wklcdn.com/image_201/6046035/80682638/52521140_tn.jpg"},{"id":52521152,"url":"https://s2.wklcdn.com/image_201/6046035/80682638/52521152_tn.jpg"},{"id":52521159,"url":"https://s0.wklcdn.com/image_201/6046035/80682638/52521159_tn.jpg"},{"id":52521173,"url":"https://s2.wklcdn.com/image_201/6046035/80682638/52521173_tn.jpg"},{"id":52521175,"url":"https://s1.wklcdn.com/image_201/6046035/80682638/52521175_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/slap-savica-izvor-save-bohinjke-80682638","rating":"0.0","numRatings":"0","trailrank":"15","privacy":"public","favorite":false},{"nViews":187,"nDownloads":5,"id":"79766655","name":"Stara planina - Orlova stena i vidikovac Bolvan u pokušaju","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"5.59","uom":"km","slope":"157","uomslope":"m","thumbs":[{"id":51850753,"url":"https://s1.wklcdn.com/image_201/6046035/79766655/51850753_tn.jpg"},{"id":51850801,"url":"https://s1.wklcdn.com/image_201/6046035/79766655/51850801_tn.jpg"},{"id":51850806,"url":"https://s0.wklcdn.com/image_201/6046035/79766655/51850806_tn.jpg"},{"id":51850814,"url":"https://s2.wklcdn.com/image_201/6046035/79766655/51850814_tn.jpg"},{"id":51850819,"url":"https://s1.wklcdn.com/image_201/6046035/79766655/51850819_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/stara-planina-orlova-stena-i-vidikovac-bolvan-u-pokusaju-79766655","rating":"0.0","numRatings":"0","trailrank":"29","privacy":"public","favorite":false},{"nViews":55,"nDownloads":5,"id":"79727524","name":"Stara planina - Babin zub","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"7.76","uom":"km","slope":"309","uomslope":"m","thumbs":[{"id":51889920,"url":"https://s0.wklcdn.com/image_201/6046035/79727524/51889920_tn.jpg"},{"id":51889944,"url":"https://s0.wklcdn.com/image_201/6046035/79727524/51889944_tn.jpg"},{"id":51889966,"url":"https://s1.wklcdn.com/image_201/6046035/79727524/51889966_tn.jpg"},{"id":51890089,"url":"https://s1.wklcdn.com/image_201/6046035/79727524/51890089_tn.jpg"},{"id":51890105,"url":"https://s2.wklcdn.com/image_201/6046035/79727524/51890105_tn.jpg"},{"id":51890289,"url":"https://s0.wklcdn.com/image_201/6046035/79727524/51890289_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/stara-planina-babin-zub-79727524","rating":"0.0","numRatings":"0","trailrank":"35","privacy":"public","favorite":false},{"nViews":53,"nDownloads":5,"id":"79668845","name":"Stara planina - vidikovac Koziji kamen","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"6.32","uom":"km","slope":"197","uomslope":"m","thumbs":[{"id":51849800,"url":"https://s2.wklcdn.com/image_201/6046035/79668845/51849800_tn.jpg"},{"id":51849815,"url":"https://s2.wklcdn.com/image_201/6046035/79668845/51849815_tn.jpg"},{"id":51849824,"url":"https://s2.wklcdn.com/image_201/6046035/79668845/51849824_tn.jpg"},{"id":51849829,"url":"https://s1.wklcdn.com/image_201/6046035/79668845/51849829_tn.jpg"},{"id":51849847,"url":"https://s1.wklcdn.com/image_201/6046035/79668845/51849847_tn.jpg"},{"id":51849849,"url":"https://s0.wklcdn.com/image_201/6046035/79668845/51849849_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/stara-planina-vidikovac-koziji-kamen-79668845","rating":"0.0","numRatings":"0","trailrank":"32","privacy":"public","favorite":false},{"nViews":51,"nDownloads":0,"id":"79036318","name":"Bukulja","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"4.44","uom":"km","slope":"281","uomslope":"m","thumbs":[{"id":51384946,"url":"https://s1.wklcdn.com/image_201/6046035/79036318/51384946_tn.jpg"},{"id":51384957,"url":"https://s0.wklcdn.com/image_201/6046035/79036318/51384957_tn.jpg"},{"id":51384958,"url":"https://s1.wklcdn.com/image_201/6046035/79036318/51384958_tn.jpg"},{"id":51358656,"url":"https://s0.wklcdn.com/image_201/6046035/79036319/51358656_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/bukulja-79036318","rating":"0.0","numRatings":"0","trailrank":"11","privacy":"public","favorite":false},{"nViews":116,"nDownloads":10,"id":"78065156","name":"Kučajske planine - Straža i Lisac","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"19.94","uom":"km","slope":"508","uomslope":"m","thumbs":[{"id":50828516,"url":"https://s2.wklcdn.com/image_201/6046035/78065156/50828516_tn.jpg"},{"id":50828518,"url":"https://s1.wklcdn.com/image_201/6046035/78065156/50828518_tn.jpg"},{"id":50828524,"url":"https://s1.wklcdn.com/image_201/6046035/78065156/50828524_tn.jpg"},{"id":50828528,"url":"https://s2.wklcdn.com/image_201/6046035/78065156/50828528_tn.jpg"},{"id":50925043,"url":"https://s1.wklcdn.com/image_201/6046035/78065156/50925043_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/kucajske-planine-straza-i-lisac-78065156","rating":"0.0","numRatings":"0","trailrank":"29","privacy":"public","favorite":false},{"nViews":22,"nDownloads":2,"id":"77298287","name":"Mučanj","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"14.35","uom":"km","slope":"425","uomslope":"m","thumbs":[{"id":50408907,"url":"https://s0.wklcdn.com/image_201/6046035/77298287/50408907_tn.jpg"},{"id":50408926,"url":"https://s1.wklcdn.com/image_201/6046035/77298287/50408926_tn.jpg"},{"id":50408986,"url":"https://s1.wklcdn.com/image_201/6046035/77298287/50408986_tn.jpg"},{"id":50408989,"url":"https://s1.wklcdn.com/image_201/6046035/77298287/50408989_tn.jpg"},{"id":50409124,"url":"https://s1.wklcdn.com/image_201/6046035/77298287/50409124_tn.jpg"},{"id":50409172,"url":"https://s1.wklcdn.com/image_201/6046035/77298287/50409172_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/mucanj-77298287","rating":"0.0","numRatings":"0","trailrank":"27","privacy":"public","favorite":false},{"nViews":10,"nDownloads":2,"id":"77225638","name":"Katići - Karađorđev šanac","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"3.40","uom":"km","slope":"73","uomslope":"m","thumbs":[{"id":52673246,"url":"https://s2.wklcdn.com/image_201/6046035/77225638/52673246_tn.jpg"},{"id":52673248,"url":"https://s1.wklcdn.com/image_201/6046035/77225638/52673248_tn.jpg"},{"id":52673250,"url":"https://s0.wklcdn.com/image_201/6046035/77225638/52673250_tn.jpg"},{"id":52673251,"url":"https://s1.wklcdn.com/image_201/6046035/77225638/52673251_tn.jpg"},{"id":52673253,"url":"https://s0.wklcdn.com/image_201/6046035/77225638/52673253_tn.jpg"},{"id":52673254,"url":"https://s1.wklcdn.com/image_201/6046035/77225638/52673254_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/katici-karadordev-sanac-77225638","rating":"0.0","numRatings":"0","trailrank":"20","privacy":"public","favorite":false},{"nViews":4,"nDownloads":0,"id":"75157199","name":"Divčibare","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"3.48","uom":"km","slope":"103","uomslope":"m","thumbs":[],"companions":[],"prettyURL":"/hiking-trails/divcibare-75157199","rating":"0.0","numRatings":"0","trailrank":"3","privacy":"public","favorite":false},{"nViews":71,"nDownloads":0,"id":"67858031","name":"Stepin Gaj","author":"Ivan Večanski","uid":"6046035","authorAvatar":"https://s0.wklcdn.com/image_201/6046035/photo_tn.jpg?1642715770166","picto":"1","pictoText":"Hiking","distance":"3.66","uom":"km","slope":"120","uomslope":"m","thumbs":[{"id":44746346,"url":"https://s2.wklcdn.com/image_201/6046035/67858031/44746346_tn.jpg"},{"id":44746365,"url":"https://s0.wklcdn.com/image_201/6046035/67858031/44746365_tn.jpg"},{"id":44746375,"url":"https://s1.wklcdn.com/image_201/6046035/67858031/44746375_tn.jpg"}],"companions":[],"prettyURL":"/hiking-trails/stepin-gaj-67858031","rating":"0.0","numRatings":"0","trailrank":"8","privacy":"public","favorite":false}];
+		    let canEditTrails = true;
+		    let canEditCompanions = true;
+        </script>
+	<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/fp.min.4f8a87b0.js"></script>
+		<script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/userProfileTrails.min.e8f863cb.js"></script>
+		<script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/follow-modal.min.85fce774.js"></script>
+        <script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/login-modal.min.6995266c.js"></script>
+        <script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/crud-favlist.min.c1ea80c0.js"></script>
+        <script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/add-to-fav.min.8efda132.js"></script>
+        <script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/trail-card.min.73e54a60.js"></script>
+        <script defer src="https://sc.wklcdn.com/wikiloc/assets/scripts/profile-init-cards.min.e936e421.js"></script>
+    <script>
+$(function () {
+	var notificationList = $(".notification-list");
+	notificationList.on( 'click','a.cancel-request', function(e){
+		e.preventDefault();
+		var parentLi = $(this).parents().eq(2);
+
+
+		$.ajax({
+		  url: $(this).attr('href'),
+          method: 'get',
+		  dataType: 'json'
+		}).done(function (ret) {
+			if (ret.res == "OK") {
+				parentLi.remove();
+			}else
+				window.location.reload();
+			});
+      	parentLi.remove();
+		var notiNumber= $('.notinum');
+		var notiNumberInt= parseInt($('.notinum').eq( 1 ).text());
+		if( notiNumberInt -1 == 0 )
+			$('.notinum.badge').remove();
+		notiNumber.text( notiNumberInt -1 );
+
+	});
+	notificationList.on( 'click','a.confirm-request', function(e){
+		e.preventDefault();
+		var parentLi = $(this).parents().eq(2);
+		$(this).addClass('disabled');
+
+
+
+		$.ajax({
+		  url: $(this).attr('href'),
+          method: 'post'
+		}).done(function (ret) {
+				html =  $(ret).filter("#page");
+				html.find("p.return").remove();
+				parentLi.remove();
+			});
+		parentLi.remove();
+		var notiNumber= $('.notinum');
+		var notiNumberInt= parseInt($('.notinum').eq( 1 ).text());
+		if( notiNumberInt -1 == 0 )
+			$('.notinum.badge').remove();
+		notiNumber.text( notiNumberInt -1 );
+	});
+});
+</script>
+<script>
+  var isOrg = "false" === "true";
+  var userType = "USER_PREMIUM";
+  var hisProfile= "true" === "true";
+  var username = "Ivan Večanski";
+  var userProfileName = "Ivan Večanski";
+  var userImage = "https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166";
+  var titleName = "Your trails";
+</script>
+
+<script>
+	function socialLoginState() {
+		return {
+			"step": "WEB_APPLE",
+			"language": "en",
+			"nexthop": "aHR0cHM6Ly93d3cud2lraWxvYy5jb20vd2lraWxvYy91c2VyLmRvP2lkPTYwNDYwMzUmZnJvbT0yMCZ0bz0zMA==",
+			"securityToken": "7skflabol7ck7s8dei7tcrn70r",
+			"id": "bcbb46152e96731c7bafb30d2aa485f5"
+		};
+	}
+</script>
+
+<script>
+	// INJECT vars for vue components
+	var INJECT_VALUES = {
+		userName: userProfileName,
+		userImage: "https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166",
+		titleName: titleName,
+		
+		isMuted: false,
+		userId: 6046035,
+		
+		isUserLoggedIn: true, // premium-modal
+		socialLoginState : socialLoginState(),	// premuium-modal - login-modal
+		recaptchaModule: Recaptcha,	// premium-modal - login-modal
+		
+		isUserPremium: true,
+		
+		i18n: translations,
+		permalink: window.location.href,
+		shareEnabled: {
+			email: {
+				emailDescriptionParameters: {
+					"0": window.location.href,
+					"1": "Ivan Večanski",
+					"2": window.location.href,
+				}
+			},
+			twitter: true,
+			facebook: true,
+			whatsapp: true,
+			qr: {
+				type: 'USER'
+			},
+		},
+	};
+	INJECT_VALUES.shareEnabled.qr.url = "https://loc.wiki/u/6046035/enuw?h=2m4q89b3z9";
+	INJECT_VALUES.shareEnabled.qr.printQr = {
+		"printUrl":"https://loc.wiki/u/6046035/enup?h=2m4q89b3z9",
+		"printSubHeader":"Trails of the World",
+		"printTextDiscoverMore":"Discover more trails at <b>www.wikiloc.com</b>",
+		"printTextOpenQR":"Open this profile by scanning this QR code from the Wikiloc App search bar.",
+		"printTitle":"Ivan Večanski",
+		"printDisclaimer":"Printed by Wikiloc user Ivan Večanski",
+		"userIsOrg": false,
+		"userAvatar": 'https://s0.wklcdn.com/image_201/6046035/photo.jpg?1642715770166',
+	};
+	INJECT_VALUES.title = "Ivan Večanski";
+	INJECT = Object.assign(INJECT, INJECT_VALUES);
+</script>
+
+
+<script>
+
+$(function() {
+	$('.login-button').click(function(e) {
+		e.preventDefault();
+		showLoginModal();
+	});
+
+	$('#sms-button').click(function(e) {
+		e.preventDefault();
+		var modalId = $(this).attr('href');
+		if( $(modalId+'-modal').length == 0  ){
+			$('#page').append(TemplateCache.get(modalId+'-template')({uc:{}}));
+			$(modalId+'-modal').on('shown.bs.modal', function() {
+				$('#message').val('').focus();
+				$(document).on('submit','#private-message-form', function(e) {
+					e.preventDefault();
+					e.stopImmediatePropagation();
+					sendPrivateMessage();
+					return false;
+				});
+			});
+		}
+		$(modalId+'-modal').modal('show');
+	});
+
+	$('#followauto-button').on({
+		mouseenter: function() {
+			var fb= $(this);
+			fb.attr('title',translate('txtUnfollow')).text(translate('txtUnfollow'));
+			fb.removeClass('btn-default').addClass('btn-danger').find('i').remove();
+		},
+		mouseleave: function() {
+			var fb= $(this);
+			fb.attr('title',translate('txtFollowing')).text(translate('txtFollowing'));
+			fb.removeClass('btn-danger').addClass('btn-default').find('i').remove();
+			fb.prepend('<i class="icon icon-ok"></i>');
+		}
+	});
+	$('#follow-button').on({
+		click: function() {
+			var fb= $(this);
+			var isOn= fb.hasClass('btn-danger');
+			if( !fb.hasClass('btn-default') ){
+				fb.prop( "disabled", true );
+
+
+				var request = $.ajax({
+				  url: "https://www.wikiloc.com/wikiloc/follow.do?",
+				  method: "post",
+				  dataType:"json",
+				  data: {'uid':6046035,'fol':!isOn}
+				});
+				request.done(function (response, textStatus, jqXHR){
+					if( response.res =='OK' ){
+						if (isOn) {
+							fb.attr('title',translate('txtFollow')).text(translate('txtFollow'));
+							fb.removeClass('btn-danger btn-default').addClass('btn-success').find('i').remove();
+							fb.attr('data-stat','follow');
+
+                            gtag('event', 'page_view', { page_path: '/follower/followeroff'})
+							if( window.location.href.indexOf("followers") > -1) {
+								document.location.reload();
+							}else {
+								$('#followers-number').html( parseInt($('#followers-number').html())-1 );
+							}
+
+						}
+						else {
+							fb.attr('title',translate('txtFollowing')).text(translate('txtFollowing'));
+							fb.removeClass('btn-success').addClass('btn-default').find('i').remove();
+							fb.prepend('<i class="icon icon-ok"></i>');
+							fb.attr('data-stat','following');
+                            gtag('event', 'page_view', { page_path: '/follower/followeron'})
+                          if( window.location.href.indexOf("followers") > -1) {
+								document.location.reload();
+							}else {
+								$('#followers-number').html( parseInt($('#followers-number').html())+1 );
+							}
+
+						}
+						fb.prop( "disabled", false );
+					}
+				});
+			}
+		},
+		mouseenter: function() {
+			var fb= $(this);
+			var isOn=fb.hasClass('btn-default');
+			if (isOn) {
+				fb.attr('title',translate('txtUnfollow')).text(translate('txtUnfollow'));
+				fb.removeClass('btn-default').addClass('btn-danger').find('i').remove();
+			}
+		},
+		mouseleave: function() {
+			var fb= $(this);
+			var isOn= fb.attr('data-stat') == 'following';
+			if (isOn) {
+				fb.attr('title',translate('txtFollowing')).text(translate('txtFollowing'));
+				fb.removeClass('btn-sucess btn-danger').addClass('btn-default').find('i').remove();
+				fb.prepend('<i class="icon icon-ok"></i>');
+			}
+			else {
+				fb.attr('title',translate('txtFollow')).text(translate('txtFollow'));
+				fb.removeClass('btn-danger btn-default').addClass('btn-sucess').find('i').remove();
+			}
+		}
+	});
+});
+</script>
+
+
+<script>
+$(function() {
+	if ($('div.user-actions')) {
+		$('ul.trail-list-profile li').mouseover(function(e) {
+			$(this).find('div.trail-card__actions__left').css('visibility','visible');
+			$(this).find('div.trail-card__actions__desktop').css('visibility','visible');
+		}).mouseout(function(e) {
+			$(this).find('div.trail-card__actions__left').css('visibility','hidden');
+			$(this).find('div.trail-card__actions__desktop').css('visibility','hidden');
+		});
+	}
+  	$('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/readmore.min.a62592f9.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/userProfile.min.620a5cba.js"></script>
+<script src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
+<script>
+$(function() {
+	$("#user-desc").readmore({
+		moreLink: '<a class="rmore" href="#">Read more</a>',
+		lessLink: ''
+	});
+});
+</script>
+</body>
+</html>
