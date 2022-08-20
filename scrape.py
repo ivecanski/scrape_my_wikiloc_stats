@@ -80,7 +80,7 @@ def main():
             print("-- next_page link: {}".format(next_page_href))
             driver.get(next_page_href)
             # wait a few seconds for the page to load
-            wait(5)
+            wait(2)
         except:
             has_more_pages = False
 
@@ -93,12 +93,13 @@ def main():
     if not os.path.exists(output_dir): 
         os.makedirs(output_dir)
 
-    df.to_csv(get_output_filename())
+    filename = get_output_filename()
+    df.to_csv(filename)
 
     # Close browswer
     driver.quit()
 
-    print(".. done")
+    print("Scraping completed, results stored in {}".format(filename))
 
 if __name__ == '__main__':
     main()

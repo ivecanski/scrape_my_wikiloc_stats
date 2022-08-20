@@ -33,16 +33,16 @@ After sourcing your virtualenv, run the script simply with `python scrape.py`:
 
 ```
 ~/dev/python/scrape_my_wikiloc_stats $ source /home/ivan/.virtualenvs/scraping_selenium/bin/activate
-(scraping_selenium)  ~/dev/python/scrape_my_wikiloc_stats $ python scrape.py 
+(scraping)  ~/dev/python/scrape_my_wikiloc_stats $ python scrape.py 
 > going to sleep for 20 seconds
 -- next_page link: https://www.wikiloc.com/wikiloc/user.do?id=6046035&from=10&to=20
-> going to sleep for 5 seconds
+> going to sleep for 2 seconds
 -- next_page link: https://www.wikiloc.com/wikiloc/user.do?id=6046035&from=20&to=30
-> going to sleep for 5 seconds
+> going to sleep for 2 seconds
 -- next_page link: https://www.wikiloc.com/wikiloc/user.do?id=6046035&from=30&to=40
-> going to sleep for 5 seconds
+> going to sleep for 2 seconds
 < all data gathered, processing...
-.. done
+Scraping completed, results stored in output/my_wikiloc_stats_20220820-205704.csv
 ```
 The script sleeps at certain points to allow the pages to be loaded (waiting could be optimized), and the initial wait is longer in order to allow the captcha to be resolved manually. 
 
