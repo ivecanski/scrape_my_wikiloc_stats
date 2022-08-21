@@ -1,6 +1,6 @@
 #### Overview
 
-Wikiloc is a great site for documenting your trails. However, there is currently no way to quickly get an overview of your own basic stats - how many times your trails were viewed and downloaded. 
+[Wikiloc](https://www.wikiloc.com) is a great site for documenting your trails. However, there is currently no way to quickly get an overview of your own basic stats - how many times your trails were viewed and downloaded. 
 
 This script scrapes **your own wikiloc account** (you need to login) and pulls the stats from the 10-trail pages instead of going through each individual trail - we try to be as easy on the website as possible. Since the stats are collected from your own account (while logged in), the scraping does not affect your stats, i.e. the number of views of your trails won't be incremented by running the script. Note that if you visit the same pages without being logged in the statistics data won't be available!
 
