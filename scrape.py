@@ -55,11 +55,17 @@ def main():
                     trails_json = json.loads(trails_json_str)
 
                     for trail_json in trails_json:
+                        try:
+                            view_download_ratio = float(trail_json["nDownloads"] / float(trail_json["nViews"]))
+                        except:
+                            print("Failed to calculate download ratio for views: {}, downloads: {}")
+                            view_download_ratio = 0
                         trail = {
                             'name': trail_json["name"],
                             'views': trail_json["nViews"],
                             'downloads': trail_json["nDownloads"], 
-                            'trailrank': trail_json['trailrank']
+                            'trailrank': trail_json['trailrank'],
+                            'downloadRatio': "{:.2f}".format(view_download_ratio)
                         }
                         trails_list.append(trail)
 
