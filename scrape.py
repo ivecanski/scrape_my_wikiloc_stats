@@ -3,6 +3,7 @@
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 import pandas as pd
 import creds
 import time
@@ -26,9 +27,9 @@ def main():
     driver.get(login_url)
 
     # Find elements
-    driver.find_element_by_xpath('//*[@id="email"]').send_keys(creds.email)
-    driver.find_element_by_xpath('//*[@id="password"]').send_keys(creds.password)
-    driver.find_element_by_xpath('//*[@id="submit-button"]').click()
+    driver.find_element(by=By.XPATH, value='//*[@id="email"]').send_keys(creds.email)
+    driver.find_element(by=By.XPATH, value='//*[@id="password"]').send_keys(creds.password)
+    driver.find_element(by=By.XPATH, value='//*[@id="submit-button"]').click()
 
     # Go to sleep, allow the page to display fully and also allow extra time for manually solving the CAPTCHA in case it pops up
     wait(20)
@@ -40,7 +41,7 @@ def main():
     has_more_pages = True
 
     while has_more_pages:
-        script_tag = driver.find_element_by_xpath("//script[contains(.,'let trails')]")
+        script_tag = driver.find_element(by=By.XPATH, value="//script[contains(.,'let trails')]")
         if script_tag != None:
             script_text = script_tag.get_attribute('innerHTML')
 
@@ -81,7 +82,7 @@ def main():
         # XPath 2.0: "//a[@class='pagination__item'][1]/@href", 
         # Selenium supports XPath 1.0, only returns elements
         try:
-            next_page_a = driver.find_element_by_xpath("//a[@class='pagination__item'][1]")
+            next_page_a = driver.find_element(by=By.XPATH, value="//a[@class='pagination__item'][1]")
             next_page_href = next_page_a.get_attribute("href")
             print("-- next_page link: {}".format(next_page_href))
             driver.get(next_page_href)
